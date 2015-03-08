@@ -1,50 +1,69 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Vicky002.GitHub.io by vicky002</title>
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-    <script src="javascripts/respond.js"></script>
-    <!--[if lt IE 9]>
-      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <!--[if lt IE 8]>
-    <link rel="stylesheet" href="stylesheets/ie.css">
-    <![endif]-->
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <title>Vikesh Tiwari Projects</title>
+    <link rel="stylesheet" type="text/css" href="assets/reset.min.css">
+    <link rel="stylesheet" type="text/css" href="assets/grid.min.css">
+    <link rel="stylesheet" type="text/css" href="assets/style.min.css">
+    <script type="text/javascript" src="assets/jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="assets/strftime.min.js"></script>
+    <script type="text/javascript">
+    (function ($, undefined) {
 
+      var repoUrls = {
+        'Instachart': 'http://instachart.herokuapp.com',
+        'Showlist': 'http://facebookhack.herokuapp.com',
+        'LifeAndTimes-Simple': 'http://lifeandtimes.herokuapp.com'
+      };
+
+      function repoUrl(repo) {
+        return repoUrls[repo.name] || repo.html_url;
+      }
+
+      var repoDescriptions = {};
+
+      function repoDescription(repo) {
+        return repoDescriptions[repo.name] || repo.description;
+      }
+
+      function addRecentlyUpdatedRepo(e){var t=$("<li>");var n=$("<a>").attr("href",e.html_url).text(e.name);t.append($("<span>").addClass("name").append(n));var r=$("<a>").attr("href",e.html_url+"/commits").text(strftime("%h %e, %Y",e.pushed_at));t.append($("<span>").addClass("time").append(r));t.append('<span class="bullet">&sdot;</span>');var i=$("<a>").attr("href",e.html_url+"/watchers").text(e.watchers+" stargazers");t.append($("<span>").addClass("watchers").append(i));t.append('<span class="bullet">&sdot;</span>');var s=$("<a>").attr("href",e.html_url+"/network").text(e.forks+" forks");t.append($("<span>").addClass("forks").append(s));t.appendTo("#recently-updated-repos")}function addRepo(e){var t=$("<li>").addClass("repo grid-1 "+(e.language||"").toLowerCase());var n=$("<a>").attr("href",repoUrl(e)).appendTo(t);n.append($("<h2>").text(e.name));n.append($("<h3>").text(e.language));n.append($("<p>").text(repoDescription(e)));t.appendTo("#repos")}function addRepos(e,t){e=e||[];t=t||1;var n="https://api.github.com/users/vicky002/repos?callback=?"+"&per_page=100"+"&page="+t;$.getJSON(n,function(n){if(n.data&&n.data.length>0){e=e.concat(n.data);addRepos(e,t+1)}else{$(function(){$("#num-repos").text(e.length);$.each(e,function(e,t){t.pushed_at=new Date(t.pushed_at);var n=1.146*Math.pow(10,-9);var r=new Date-Date.parse(t.pushed_at);var i=new Date-Date.parse(t.created_at);var s=1;var o=1.314*Math.pow(10,7);t.hotness=s*Math.pow(Math.E,-1*n*r);t.hotness+=o*t.watchers/i});e.sort(function(e,t){if(e.hotness<t.hotness)return 1;if(t.hotness<e.hotness)return-1;return 0});$.each(e,function(e,t){addRepo(t)});e.sort(function(e,t){if(e.pushed_at<t.pushed_at)return 1;if(t.pushed_at<e.pushed_at)return-1;return 0});$.each(e.slice(0,3),function(e,t){addRecentlyUpdatedRepo(t)})})}})}function randomItem(e){return e[Math.floor(Math.random()*e.length)]}function flyzone(){if(!$flyzone){$flyzone=$("<div>").attr("id","flyzone").prependTo(document.body)}return $flyzone}function randomOpacity(e){var t=Math.random();while(t<e){t=Math.random()}return t}addRepos();var $flyzone;var sizes=["smaller","small","medium","large","fat"];var sizeDimensions={smaller:50,small:80,medium:130,large:200,fat:300}
+
+
+    })(jQuery);
+    </script>
   </head>
   <body>
-      <div id="header">
-        <nav>
-          <li class="fork"><a href="https://github.com/vicky002">View On GitHub</a></li>
-        </nav>
-      </div><!-- end header -->
+    <div id="wrapper" class="grid clearfix">
 
-    <div class="wrapper">
+      <div class="grid grid-5">
 
-      <section>
-        <div id="title">
-          <h1>Vicky002.GitHub.io</h1>
-          <p>My own User account page!</p>
-          <hr>
-          <span class="credits left">Project maintained by <a href="https://github.com/vicky002">vicky002</a></span>
-          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></span>
+        <div id="main" class="grid-1 alpha header">
+          <h1><a href="index.html">Vikesh Tiwari</a></h1>
+          <p>
+          <a href="http://fb.com/blackhat002">Facebook</a><br />
+          <a href="https://www.linkedin.com/in/vikeshtiwari">LinkedIn</a><br />
+          <a href="http://www.quora.com/Vikesh-Tiwari">Quora</a>
+          <a href="mailto:tvicky002@gmail.com">Mail</a>
+          </p>
         </div>
 
-        <h1>
-<a id="vicky002githubio" class="anchor" href="#vicky002githubio" aria-hidden="true"><span class="octicon octicon-link"></span></a>vicky002.github.io</h1>
+        <div id="statistics" class="grid-1 alpha header">
+          <h1>Statistics</h1>
+          <p>
+            <a href="https://github.com/vicky002/repositories"><span id="num-repos"><img src="assets/spinner.gif" /></span> public repos</a>
+            <br>
+          </p>
+          <p><a href="https://github.com/vicky002">GitHub: vicky002</a></p>
+        </div>
 
-<p>My own User account page!</p>
+        <div id="recently-updated" class="grid-2 omega header">
+          <h1>Recently updated <a href="https://github.com/vicky002">View All on GitHub</a></h1>
+          <ol id="recently-updated-repos"></ol>
+        </div>
+      </div>
 
-<p>My webpage Where you can see my own Projects and Contribution to Different Open Source Projects!!</p>
-      </section>
-
+      <ol id="repos"></ol>
     </div>
-    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
-    
+  
   </body>
 </html>
