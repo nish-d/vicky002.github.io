@@ -9,11 +9,11 @@ I'm a upcoming <b>Software developer</b> with a knack of <b>entrepreneurship</b>
 
 I'm an undergraduate at the [Sardar Patel Institute of Technology](www.spit.ac.in), University of Mumbai <br/>
 studying Information Technology. I've interned at [Directi](www.directi.com) in past. <br/>
-I'm also Technical Head of our college commitee ITSA and Chairperson of SPIT Coder's Club. Here is my [resume]().  
+I'm also Technical Head of our college commitee ITSA and Chairperson of SPIT Coder's Club. Here is my [resume](https://github.com/vicky002/Resume/blob/master/resume.pdf).  
 
 <i>Quick Link</i>: [Work](#work) - [Projects](#projects) - [GitHub](https://www.github.com/vicky002) - [LinkedIn]() - [Twitter](www.twitter.com/vikesh002) - [FaceBook](www.facebook.com/blackhat002)  
 
-# Work
+## Work
 
  **CodeChef, Directi**
   *March'15 to Sept'15*
@@ -33,7 +33,7 @@ I started first Coder's club to promote competitive programming, open source dev
 As a Technical Head of ITSA Committee, I was involved in all the technical events and workshops in College. 
 
 
-# Projects 
+## Projects 
 
 I started working on projects in the winter of 2013. You can check out my open source project on [GitHub](www.github.com/vicky002). Here are some of the best ones.
 
@@ -63,6 +63,7 @@ I started working on projects in the winter of 2013. You can check out my open s
    Music Player Just Drag and Drop your Mp3 files and you can also search select and remove files. Nothing is uploaded – the mp3 files are kept in your browser.
    Cool audio visualization and audio playback using : Wavesurfer.js. Select and search songs in a playlist. Shuffle and Repeat options.
    [Website](https://myfirstplayer.herokuapp.com/)
+
  - **[FlowChart Evaluator](https://github.com/vicky002/Flowchart-Evaluator)**
   
    FlowChart Evaluator is simple web app in which user can create flowchart by dragging the shapes. User can execute and debug the flowchart.
@@ -74,11 +75,11 @@ I started working on projects in the winter of 2013. You can check out my open s
 
  - **[C++ and Algorithm Sublime Text Package](https://github.com/vicky002/Cplusplus_and_Algo_Sublime_Package)**
  	
-  Sublime Text Snippets for competitive Programming.
+   Sublime Text Snippets for competitive Programming.
 
  - **[L - Commands](https://github.com/vicky002/L-Commands)** _(ongoing)_
  	
-  Powerful custom Linux Commands. 
+   Powerful custom Linux Commands. 
 
  - **[CodeChef API](https://github.com/vicky002/CodeChef-API)**
   
@@ -101,12 +102,13 @@ If you like what you see and would like to get in touch (I'm reasonably nice), p
 I try to be very responsive through various channels and read everything inbound. If you have cool things to tell me, you can get in touch through the following ways (in decreasing order of preference/activity):
 
 <div class="col-1-3">
- <a class="fa fa-2x fa-envelope-o" href="tvicky002+gitpage@gmail.com" role="button" target="_blank"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a class="fa fa-2x fa-linkedin" href="linkedin.com/in/vikeshtiwari" role="button" target="_blank"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a class="fa fa-2x fa-envelope-o" href="tvicky002+gitpage@gmail.com" role="button" target="_blank"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a class="fa fa-2x fa-linkedin" href="linkedin.com/in/vikeshtiwari" role="button" target="_blank"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a class="fa fa-2x fa-twitter" href="https://twitter.com/{{ site.twitter_username }}"></a>
 </div>
 
 
+<br/><br/>
 
 
 Wanna talk about something? Want to hire me? Looking for a consultant?
