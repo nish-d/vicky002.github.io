@@ -7,11 +7,11 @@ permalink: /about/
 I'm a upcoming <b>Software developer</b> with a knack of <b>entrepreneurship</b>. 
 
 
-I'm an undergraduate at the [Sardar Patel Institute of Technology](www.spit.ac.in), University of Mumbai <br/>
-studying Information Technology. I've interned at [Directi](www.directi.com) in past. <br/>
+I'm an undergraduate at the [Sardar Patel Institute of Technology](http://www.spit.ac.in), University of Mumbai <br/>
+studying Information Technology. I've interned at [Directi](http://www.directi.com) in past. <br/>
 I'm also Technical Head of our college commitee ITSA and Chairperson of SPIT Coder's Club. Here is my [resume](https://github.com/vicky002/Resume/blob/master/resume.pdf).  
 
-<i>Quick Link</i>: [Work](#work) - [Projects](#projects) - [GitHub](https://www.github.com/vicky002) - [LinkedIn]() - [Twitter](www.twitter.com/vikesh002) - [FaceBook](www.facebook.com/blackhat002)  
+<i>Quick Link</i>: [Work](#work) - [Projects](#projects) - [GitHub](https://www.github.com/vicky002) - [LinkedIn]() - [Twitter](https://www.twitter.com/vikesh002) - [FaceBook](https://www.facebook.com/blackhat002)  
 
 ## Work
 
