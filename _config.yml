@@ -1,0 +1,47 @@
+# Dependencies
+markdown: redcarpet
+highlighter: pygments
+
+# Permalinks
+permalink: /posts/:title
+timezone: Asia/Kolkata
+
+# Setup
+title: Vikesh Tiwari
+description: 'Software development and related stuff, by Vikesh Tiwari'
+baseurl:     ''
+url:         'http://vicky002.github.io'
+
+author:
+  name: 'Vikesh Tiwari'
+  url: https://twitter.com/vikesh002
+  email: tvicky002+gitpages@gmail.com
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - bin
+
+gems:
+  # - jekyll-mentions
+  - jemoji
+  - jekyll-redirect-from
+
+sass:
+  sass_dir: _scss
+  compressed: true
+
+paginate: 3
+
+# Custom vars
+show_related_posts: true
+animated: true
+
+# Social icons
+show_social_icons: true
+github_username: vicky002
+twitter_username: vikesh002
+
+google_analytics: UA-45497633-11
+disqus_shortname: vicky002
+

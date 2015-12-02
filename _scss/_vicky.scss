@@ -1,0 +1,17 @@
+.post-content {
+  iframe.video,
+  iframe.ted,
+  iframe.twitter-tweet,
+  img {
+    margin: 20px 0;
+    border-radius: 3px;
+  }
+}
+img.emoji {
+  box-shadow: none;
+  margin: 0;
+}
+
+.github-cards {
+  text-align: center;
+}
