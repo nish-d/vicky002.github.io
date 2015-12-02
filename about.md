@@ -11,7 +11,7 @@ I'm an undergraduate at the [Sardar Patel Institute of Technology](http://www.sp
 studying Information Technology. I've interned at [Directi](http://www.directi.com) in past. <br/>
 I'm also Technical Head of our college commitee ITSA and Chairperson of SPIT Coder's Club. Here is my [resume](https://github.com/vicky002/Resume/blob/master/resume.pdf).  
 
-<i>Quick Link</i>: [Work](#work) - [Projects](#projects) - [GitHub](https://www.github.com/vicky002) - [LinkedIn]() - [Twitter](https://www.twitter.com/vikesh002) - [FaceBook](https://www.facebook.com/blackhat002)  
+<i>Quick Link</i>: [Work](#work) - [Projects](#projects) - [GitHub](https://www.github.com/vicky002) - [LinkedIn](https://www.linkedin.com/in/vikeshtiwari) - [Twitter](https://www.twitter.com/vikesh002) - [FaceBook](https://www.facebook.com/blackhat002)  
 
 ## Work
 
