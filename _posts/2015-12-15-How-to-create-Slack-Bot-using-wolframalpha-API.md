@@ -7,7 +7,7 @@ Hello everyone,
 
 It's been four days, my exams just got over. During exam time my thought process reaches its limit and I get so many project ideas, I feel like "I should try this and this. I should start coding right now. What am I studying!? It's of no use lets create something and fuck this!" LOL :D 
 
-Ok I'll write all my thoughts someday later. Let's come back to topic. I read a thread on reddit about Wolframalpha API and I decided to try my hands on it. I created two Bots using Wolframalpha and both work very nicely see some of the best tweets from [L](https://twitter.com/The_L__) . There is an issue with Wolframalpha API it only allows only 2000 API calls in a month, you need to take their paid plans if you make heavy usages.
+Ok I'll write all my thoughts someday later. Let's come back to topic. I read a thread on reddit about Wolframalpha API and I decided to try my hands on it. I created two Bots using Wolframalpha and both work very nicely see some of the best tweets from [L](https://twitter.com/The_L__) . There is an issue with Wolframalpha API it allows only 2000 API calls in a month, you need to take their paid plans if you make heavy usages.
 
 This tutorial is about How to create your own Slack Bot using Wolframa API. I created one but you can not use it directly as it uses my App-Id and can make only 2000 API calls. (Obviously I'm not going to spend my money)
 
