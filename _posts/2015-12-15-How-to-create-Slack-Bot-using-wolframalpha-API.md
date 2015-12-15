@@ -5,7 +5,7 @@ title: "How to create Slack Bot using Wolframalpha API"
 
 Hello everyone,
 
-It's been four days, my exams just got over. During exam time my thought process reaches its limit and I get so many project ideas, I feel like "I should try this and this. I should start coding right now. What am I studying!? It's of no use lets create something and fuck this!" LOL :D 
+It's been four days, my exams just got over. During exam time my thought process reaches at its peak and I get so many project ideas, I feel like "I should try this and this. I should start coding http://eulercoder.me/posts/How-to-create-Slack-Bot-using-wolframalpha-API/right now. What am I studying!? It's of no use lets create something and fuck this!" LOL :D 
 
 Ok I'll write all my thoughts someday later. Let's come back to topic. I read a thread on reddit about Wolframalpha API and I decided to try my hands on it. I created two Bots using Wolframalpha and both work very nicely see some of the best tweets from [L](https://twitter.com/The_L__) . There is an issue with Wolframalpha API it allows only 2000 API calls in a month, you need to take their paid plans if you make heavy usages.
 
@@ -94,7 +94,6 @@ Hope it helps!
 Please comment below for the issues related to the post and anything related to My bot Please use the [issue tracker](https://github.com/vicky002/slack-TheL/issues) to report any bugs or file feature requests.
 
 This is my second post, I have thought of writing one post in a week. If you're interested in reading my posts, you can [leave you email here](http://eepurl.com/bIgxHz) (expect one mail in a week) :) .
-
 
 
 
