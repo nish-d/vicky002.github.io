@@ -93,7 +93,7 @@ Hope it helps!
 
 Please comment below for the issues related to the post and anything related to My bot Please use the [issue tracker](https://github.com/vicky002/slack-TheL/issues) to report any bugs or file feature requests.
 
-This is my second post, I have thought of writing one post in a week. If you're interested in reading my posts, you can [leave you email here](http://eepurl.com/bIgxHz) (expect one mail in a week) :) .
+This is my second post, I have thought of writing one post in a week. If you're interested in reading my posts, you can [leave your email here](http://eepurl.com/bIgxHz) (expect one mail in a week) :) .
 
 
 
