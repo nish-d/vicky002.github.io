@@ -7,7 +7,7 @@ Hello everyone,
 
 It's been four days, my exams just got over. During exam time my thought process reaches its limit and I get so many project ideas, I feel like "I should try this and this. I should start coding right now. What am I studying!? It's of no use lets create something and fuck this!" LOL :D 
 
-ok I'll write all my thoughts someday later. Let's come back to topic. I read a thread on reddit about Wolframalpha API and I decided to try my hands on it. I created two Bots using Wolframalpha and both work very nicely see some of the best tweets from [L](https://twitter.com/The_L__){:target="_blank"}. There is an issue with Wolframalpha API it only allows only 2000 API calls in a month, you need to take their paid plans if you make heavy usages.
+Ok I'll write all my thoughts someday later. Let's come back to topic. I read a thread on reddit about Wolframalpha API and I decided to try my hands on it. I created two Bots using Wolframalpha and both work very nicely see some of the best tweets from [L](https://twitter.com/The_L__){:target="_blank"}. There is an issue with Wolframalpha API it only allows only 2000 API calls in a month, you need to take their paid plans if you make heavy usages.
 
 This tutorial is about How to create your own Slack Bot using Wolframa API. I created one but you can not use it directly as it uses my App-Id and can make only 2000 API calls. (Obviously I'm not going to spend my money)
 
@@ -30,7 +30,7 @@ Steps to create Slack Bot
   - You will be redirected to your app page. Click on Connect to dropbox. I'll tell you the reason why we are choosing dropbox to for our code hosting.
 
 ## step 2: Changes in Code
- - Download my repo in [Zip](https://github.com/vicky002/slack-TheL/archive/master.zip){:target="_blank"} or [fork](https://github.com/vicky002/slack-TheL#fork-destination-box){:target="_blank"} it to make changes on git in future.
+ - Download my repo in [Zip](https://github.com/vicky002/slack-TheL/archive/master.zip){:target="_blank"} or [fork](https://github.com/vicky002/slack-TheL#fork-destination-box){:target="_blank"} it to make changes on git in the future.
  - Files in your directory
  	- LICENCE : This is my LICENCE file.
  	- `Procfile`: This is a startup file and tells what is first step when we deploy our app on the cloud.
@@ -41,7 +41,7 @@ Steps to create Slack Bot
  - Changes to be made
  	- Open your project click on `config.py.example` file and add your APP_ID in single quotes.
  	- Change the name of the file from `config.py.example` to `config.py`. 
- 	- If I upload my `config.py` file on GitHub, anyone can use my APP_ID to make calls. that's the reason naming it as `config.py.example` :p
+ 	- If I upload my `config.py` file on GitHub, anyone can use my APP_ID to make calls. That's the reason naming it as `config.py.example` :p
 
 ## step 3: Upload your code on dropbox
 
@@ -54,7 +54,7 @@ Steps to create Slack Bot
 
  - Open your Heroku [Dashboard](https://dashboard.heroku.com/){:target="_blank"}.
  - Click on your app and then deploy.
- - In the deploy tab, in Deploy changes section. Write `commit` and click on Deploy.
+ - In deploy tab, in Deploy changes section. Write `commit` and click on Deploy.
  - This will download all the app dependencies. If everything is fine, you will see a green tick and your deploy is on the cloud!
 
 ## Step 5: Integrate it in your team
@@ -75,8 +75,8 @@ Steps to create Slack Bot
  
  - Open your slack channel and type `/thel` or `[your command]` and type Query.
  - Everything is working fine you will see the result. 
- - Try basic Queries first for the testing purpose, it will give instant respone.
- - Congradulation you just created a new Bot for your own Team!! Have fun! :beers:
+ - Try basic Queries first for the testing purpose, it will give instant response.
+ - Congratulation you just created a new Bot for your own Team!! Have fun! :beers:
 
 
 Explanation of the Code
@@ -93,7 +93,7 @@ Hope it helps!
 
 Please comment below for the issues related to the post and anything related to My bot Please use the [issue tracker](https://github.com/vicky002/slack-TheL/issues) to report any bugs or file feature requests.
 
-This is my second post, I have thought of writing one post in a week. If you're interested in reading my posts, you can [leave you email here](http://eepurl.com/bIgxHz) (expect one mail in a week :) ).
+This is my second post, I have thought of writing one post in a week. If you're interested in reading my posts, you can [leave you email here](http://eepurl.com/bIgxHz) (expect one mail in a week) :) .
 
 
 
