@@ -8,8 +8,10 @@ layout: default
   {{ content }}
 </article>
 
+
 {% if site.disqus_shortname %}
-  {% include disqus.html %}
+   {% include social.html %}
+   {% include disqus.html %}
 {% endif %}
 
 {% if site.show_related_posts %}
