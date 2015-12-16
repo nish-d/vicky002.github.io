@@ -37,6 +37,15 @@ As a Technical Head of ITSA Committee, I was involved in all the technical event
 
 I started working on projects in the winter of 2013. You can check out my open source project on [GitHub](www.github.com/vicky002). Here are some of the best ones.
 
+**Bots**
+ - **[The L](https://twitter.com/The_L__) Twitter Bot** 
+
+    The L is a Twitter build using Wolframa API and python. It answers questions from wide range of topics like general knowledge, history, movie revies and current temperature in your city. 
+ 
+ - **[Slack-TheL](https://github.com/vicky002/slack-TheL)**
+
+    Slack-TheL is a bot for slack very similar to Twitter bot created using Flask (python framework) and Wolframalpha Module. It can answer question from History to current temperature and even mathematical computations. The Bot is deployed on Heroku. I have also written a tutorial on [How to create bots for slack using Wolframalpha API](http://eulercoder.me/posts/How-to-create-Slack-Bot-using-wolframalpha-API).
+
 **Community Projects**
 
  - **[AlgoWiki - All CS resources at one place!]((https://github.com/vicky002/AlgoWiki))**
