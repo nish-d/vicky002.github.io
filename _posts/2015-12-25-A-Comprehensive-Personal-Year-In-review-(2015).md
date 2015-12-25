@@ -114,7 +114,8 @@ Ok so it was all a happy and cheerful year, but there are some things I'd like t
 - **Do lot of open source**: I love to spent my time on Github working on projects, contributing to others code. I'd keep on doing that. Most of my projects aren't really of very high quality, I mean it doesn't really involve lot of coding. 
 A Netflix Engineer suggested me on reddit 
 > Your goal is to prove that you are a software engineer. This means that you can show that you've something decently complex from beginning to end. 
-So now, I have decided to start working on complex projects and create something! Also Maintain my GitHub streak.
+
+ So now, I have decided to start working on complex projects and create something! Also Maintain my GitHub streak.
 
 - **Improve Networking**: I did work on that a lot this year, and it seems to have worked; I'd like to continue working on that.
 
