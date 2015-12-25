@@ -59,7 +59,7 @@ Here is the rewind of 2015
 **August 2015**: Nothing really exciting.
 
 
-**September 2015**: I and two of my friends Siddharth and Shaquib started working on a Startup 'BooksBarter' - An online marketplace for buying and selling of old books. It was really hard for me to manager everything college work, my internship and startup. I completed six months at CodeChef and left CodeChef on 22th September. Frankly speaking it was really hard to leave that place. While leaving the office, I had almost cried. 
+**September 2015**: I and two of my friends Siddharth and Shaquib started working on a Startup 'BooksBarter' - An online marketplace for buying and selling of old books. It was really hard for me to manage everything college work, my internship and startup. I completed six months at CodeChef and left CodeChef on 22th September. Frankly speaking it was really hard to leave that place. While leaving the office, I had almost cried. 
 
 
 Few days later on 29th September Bhabhiji (Sister in law) got placed in Microsoft. 
@@ -78,10 +78,10 @@ Few days later on 29th September Bhabhiji (Sister in law) got placed in Microsof
 **November 2015**: November again an awesome month! Bhai and Bhabhiji (Microsoft Couple) were back to India. It was a festive Season and family time. I had great moments with my family.
 
 
-**December 2015**: Brother Moved to US again. I was busy working on few projects. I spent lot of my time during open source. On 4th December, [AlgoWiki](https://github.com/vicky002/AlgoWiki) was trending on github. I created two bots The L for [Twitter] and [Slack]. Slack liked and retweeted my post. Slack-TheL was featured in Python Weekly. Lastly I had applied for an Internship at [Bon Happeetee](), I really liked thier concept and wanted to work with them. I had interviews with Pramit Sir and Finally I was offered an Internship. 
+**December 2015**: Brother Moved to US again. I was busy working on few projects. I spent lot of my time during open source. On 4th December, [AlgoWiki](https://github.com/vicky002/AlgoWiki) was trending on github. I created two bots The L for [Twitter](https://twitter.com/The_L__) and [Slack](https://github.com/vicky002/slack-thel). Slack liked and retweeted my post. Slack-TheL was featured in Python Weekly. Lastly I had applied for an Internship at [Bon Happeetee](http://www.bonhappetee.com/), I really liked their concept and wanted to work with them. I interviewed with Pramit Sir (CTO) and Finally I was offered an Internship. 
 
 
-I am going to a trip to North East with college friends to celebrate New year. I'll be back on 5th and from 7th Jan I'll start working at Bon Happeetee.
+I am going on a trip to North East with college friends to celebrate New year. I'll be back on 5th and from 7th Jan I'll start working at Bon Happeetee.
 
 
 ## Goals for 2015
