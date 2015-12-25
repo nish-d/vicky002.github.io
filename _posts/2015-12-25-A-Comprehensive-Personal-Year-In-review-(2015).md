@@ -5,7 +5,7 @@ title: "A Comprehensive Personal Year In review (2015)"
 
 Hello!
 
-Scrap the socks and the smellies! Why not treat someone special, and yourself, to something well worth having this Christmas? Christmas and New Year holidays are the perfect way to really celebrate the festive season in style. Whether you choose to warm up on a golden beach somewhere, or explore an exciting city at its brighest and best!
+Scrap the socks and the smellies! Why not treat someone special and yourself, to something worth having this Christmas? Christmas and New Year holidays are the perfect way to really celebrate the festive season in style. Whether you choose to warm up on a golden beach somewhere, or explore an exciting city at its brighest and best!
 
 This post is about happiness: the warm fuzzies, a contented sigh, feeling cheered up, happy as Larry, or like a dog with two tails. Call it what you will, we experience moments of happiness every day, for all sort of reasons.
 
@@ -14,7 +14,7 @@ Well, 2015 is now almost over, and it's been a great year for me and my family. 
 Here is the rewind of 2015
 
 
-**January 2015**: It was just start of new semester. Boring college, boring lectures. I never liked going college. On 28th Jan, I reached home from college and got to know that Pawan bhai  (my brother) bought a car(Audi) :sunglasses: in US. 
+**January 2015**: It was just the start of new semester. Boring college, boring lectures. I never liked going to college. On 28th Jan, I reached home from college and got to know that Pawan bhai  (my brother) bought a car(Audi) :sunglasses: in US. 
 
 <p align="center">
    <img align="centre" src="https://raw.githubusercontent.com/vicky002/vicky002.github.io/master/img/car.jpg" alt="car"/>
@@ -30,7 +30,7 @@ Here is the rewind of 2015
 
 
 
-**April 2015**: I had just joined CodeChef, all days were really exciting and fun with meetings, dinners, watching movies, cracking jokes. CodeChef team is awesome! I was learning something new every day.  
+**April 2015**: I had just joined CodeChef, all my days were really exciting and fun with meetings, dinners, watching movies, cracking jokes. The CodeChef team is awesome! I was learning something new every day.  
 
 
 **May 2015**: On 23rd May, Mukesh bhai (my brother) got graduated from Cornell University.
@@ -90,7 +90,7 @@ I am going on a trip to North East with college friends to celebrate New year. I
 Ok so it was all a happy and cheerful year, but there are some things I'd like to work on for 2016. I'm listing my resolutions publicly for the first time because I think that public accountability is a huge motivator.
 
 
-- **Lose xx Kgs (Not listing the number here)**: I have gained lot of kgs this year. I've already been following few blogs and diet plans and plan on continuing it.
+- **Lose xx Kgs (Not listing the number here)**: I have gained a lot of kgs this year. I've already been following few blogs and diet plans and plan on continuing it.
 
 
 - **Running on alternate days**: I have started running since last month and now I really love going out in the morning.
@@ -108,10 +108,10 @@ Ok so it was all a happy and cheerful year, but there are some things I'd like t
 - **Do better in college**
 
 
-- **Less Facebook**: I log on to facebook multiples times a day, but hardly post anything (one post in 3-4 days). I'd still like to be able to avoid using Facebook for checking random stuffs that people post on there.
+- **Less Facebook**: I log on to facebook multiple times a day, but hardly post anything (one post in 3-4 days). I'd still like to be able to avoid using Facebook for checking random stuffs that people post on there.
 
 
-- **Do lot of open source**: I love to spent my time on Github working on projects, contributing to others code. I'd keep on doing that. Most of my projects aren't really of very high quality, I mean it doesn't really involve lot of coding. 
+- **Do lot of open source**: I love to spent my time on Github working on projects, contributing to other's code. I'd keep on doing that. Most of my projects aren't really of very high quality, I mean it doesn't really involve a lot of coding. 
 A Netflix Engineer suggested me on reddit 
 > Your goal is to prove that you are a software engineer. This means that you can show that you've something decently complex from beginning to end. 
 
