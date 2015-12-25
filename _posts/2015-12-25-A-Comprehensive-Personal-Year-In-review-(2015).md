@@ -16,6 +16,11 @@ Here is the rewind of 2015
 
 **January 2015**: It was just start of new semester. Boring college, boring lectures. I never liked going college. On 28th Jan, I reached home from college and got to know that Pawan bhai  (my brother) bought a car(Audi) :sunglasses: in US. 
 
+<p align="center">
+   <img align="centre" src="https://github.com/vicky002/vicky002.github.io/blob/master/img/car.jpg" alt="car"/>
+</p>
+
+
 
 **February 2015**: Nothing really interesting, just college to Home and Home to college.
 
@@ -29,15 +34,23 @@ Here is the rewind of 2015
 
 
 **May 2015**: On 23rd May, Mukesh bhai (my brother) got graduated from Cornell University.
-[pic]
+
+<p align="center">
+   <img align="centre" src="https://github.com/vicky002/vicky002.github.io/blob/master/img/graduation.jpg" alt="graduation"/>
+</p>
 
 **June 2015**: June, an amazing month! After an year Mukesh bhai was back to India with his Masters degree. The CodeChef team was busy in SnackDown World finals. Busy but it was a great fun and we shared some of the best moments, late night cricket in office, dinner at L W Marriott Hotel :smile:! Working and setting up the Arena. Those days were awesome! I got to meet some of the best coders of India.
 
+<p align="center">
+<img align="centre" src="https://github.com/vicky002/vicky002.github.io/blob/master/img/snackdown1.jpg" alt="SnackDownIDs" />
+</p>
+<i> Pic: Our ID Cards Me with Shivam and Vishal (interns) and ignore that typo :smile: </i>
 
-[pic1]
 
-
-[pic2]
+<p align="center">
+<img align="centre" src="https://github.com/vicky002/vicky002.github.io/blob/master/img/Snackdown.jpg" alt="Me with" />
+</p>
+<i>Pic : Me with CodeChef Team and [Directi](www.directi.com) CEO and CTO</i>
 
 
 **July 2015**: Mukesh Bhai moved to US this time to start his career at Amazon! 19th July was his first day at Amazon.
@@ -51,8 +64,12 @@ Here is the rewind of 2015
 
 Few days later on 29th September Bhabhiji (Sister in law) got placed in Microsoft. 
 
+<p align="center">
+<img align="centre" src="https://github.com/vicky002/vicky002.github.io/blob/master/img/ccteam.jpg" alt="CCTeam" />
+</p>
+<i>Pic: Me with The CodeChef Team and IOI Interns </i> 
 
-[cc team]
+
 
 
 **October 2015**: Nothing really exciting.
@@ -118,11 +135,13 @@ of the Holiday Season be yours.
 Merry Christmas and Best Wishes
 for Happiness in the New Year
 
+<p align="center">
+<img align="centre" src="https://github.com/vicky002/vicky002.github.io/blob/master/img/newyear.jpg" alt="CCTeam" />
+</p>
 
 See you Next year! :smile: :beers:
 
 
-[pic]
 
 
 This is my third post. If you're interested in reading my posts, you can [leave your email here](http://eepurl.com/bIgxHz) (expect one mail in a week) :) .
