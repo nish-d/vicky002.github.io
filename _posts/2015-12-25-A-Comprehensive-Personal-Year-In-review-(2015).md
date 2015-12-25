@@ -17,7 +17,7 @@ Here is the rewind of 2015
 **January 2015**: It was just start of new semester. Boring college, boring lectures. I never liked going college. On 28th Jan, I reached home from college and got to know that Pawan bhai  (my brother) bought a car(Audi) :sunglasses: in US. 
 
 <p align="center">
-   <img align="centre" src="https://github.com/vicky002/vicky002.github.io/blob/master/img/car.jpg" alt="car"/>
+   <img align="centre" src="https://raw.githubusercontent.com/vicky002/vicky002.github.io/master/img/car.jpg" alt="car"/>
 </p>
 
 
@@ -36,19 +36,19 @@ Here is the rewind of 2015
 **May 2015**: On 23rd May, Mukesh bhai (my brother) got graduated from Cornell University.
 
 <p align="center">
-   <img align="centre" src="https://github.com/vicky002/vicky002.github.io/blob/master/img/graduation.jpg" alt="graduation"/>
+   <img align="centre" src="https://raw.githubusercontent.com/vicky002/vicky002.github.io/master/img/graduation.jpg" alt="graduation"/>
 </p>
 
 **June 2015**: June, an amazing month! After an year Mukesh bhai was back to India with his Masters degree. The CodeChef team was busy in SnackDown World finals. Busy but it was a great fun and we shared some of the best moments, late night cricket in office, dinner at L W Marriott Hotel :smile:! Working and setting up the Arena. Those days were awesome! I got to meet some of the best coders of India.
 
 <p align="center">
-<img align="centre" src="https://github.com/vicky002/vicky002.github.io/blob/master/img/snackdown1.jpg" alt="SnackDownIDs" />
+<img align="centre" src="https://raw.githubusercontent.com/vicky002/vicky002.github.io/master/img/snackdown1.jpg" alt="SnackDownIDs" />
 </p>
 <i> Pic: Our ID Cards Me with Shivam and Vishal (interns) and ignore that typo :smile: </i>
 
 
 <p align="center">
-<img align="centre" src="https://github.com/vicky002/vicky002.github.io/blob/master/img/Snackdown.jpg" alt="Me with" />
+<img align="centre" src="https://raw.githubusercontent.com/vicky002/vicky002.github.io/master/img/Snackdown.jpg" alt="Me with" />
 </p>
 <i>Pic : Me with CodeChef Team and [Directi](www.directi.com) CEO and CTO</i>
 
@@ -65,7 +65,7 @@ Here is the rewind of 2015
 Few days later on 29th September Bhabhiji (Sister in law) got placed in Microsoft. 
 
 <p align="center">
-<img align="centre" src="https://github.com/vicky002/vicky002.github.io/blob/master/img/ccteam.jpg" alt="CCTeam" />
+<img align="centre" src="https://raw.githubusercontent.com/vicky002/vicky002.github.io/master/img/ccteam.jpg" alt="CCTeam" />
 </p>
 <i>Pic: Me with The CodeChef Team and IOI Interns </i> 
 
@@ -136,7 +136,7 @@ Merry Christmas and Best Wishes
 for Happiness in the New Year
 
 <p align="center">
-<img align="centre" src="https://github.com/vicky002/vicky002.github.io/blob/master/img/newyear.jpg" alt="CCTeam" />
+<img align="centre" src="https://raw.githubusercontent.com/vicky002/vicky002.github.io/master/img/newyear.jpg" alt="CCTeam" />
 </p>
 
 See you Next year! :smile: :beers:
