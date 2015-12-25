@@ -22,7 +22,9 @@ Here is the rewind of 2015
 
 
 
-**February 2015**: Nothing really interesting, just college to Home and Home to college.
+**February 2015**: Nothing really exciting. Well,
+ > We are all here on earth to help others; what on earth the others are here for I don't know. :smile:
+
 
 
 
@@ -56,7 +58,8 @@ Here is the rewind of 2015
 **July 2015**: Mukesh Bhai moved to US this time to start his career at Amazon! 19th July was his first day at Amazon.
 
 
-**August 2015**: Nothing really exciting.
+**August 2015**: Nothing really exciting. Well,
+ > If you're going to do something tonight that you'll be sorry for tomorrow morning, sleep late.
 
 
 **September 2015**: I and two of my friends Siddharth and Shaquib started working on a Startup 'BooksBarter' - An online marketplace for buying and selling of old books. It was really hard for me to manage everything college work, my internship and startup. I completed six months at CodeChef and left CodeChef on 22th September. Frankly speaking it was really hard to leave that place. While leaving the office, I had almost cried. 
@@ -72,7 +75,8 @@ Few days later on 29th September Bhabhiji (Sister in law) got placed in Microsof
 
 
 
-**October 2015**: Nothing really exciting.
+**October 2015**: Nothing really exciting. Well,
+ > It takes considerable knowledge just to realize the extent of your own ignorance.
 
 
 **November 2015**: November again an awesome month! Bhai and Bhabhiji (Microsoft Couple) were back to India. It was a festive Season and family time. I had great moments with my family.
