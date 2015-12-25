@@ -116,8 +116,7 @@ A Netflix Engineer suggested me on reddit
 > Your goal is to prove that you are a software engineer. This means that you can show that you've something decently complex from beginning to end. 
 So now, I have decided to start working on complex projects and create something! Also Maintain my GitHub streak.
 
-
- - **Improve Networking**: I did work on that a lot this year, and it seems to have worked; I'd like to continue working on that.
+- **Improve Networking**: I did work on that a lot this year, and it seems to have worked; I'd like to continue working on that.
 
 
 So that's about it. That was my year. How was yours? I'd love to hear your story. [Email me](tvicky002+git@gmail.com) or [tweet at me](https://twitter.com/vikesh002). I reply to everything I receive.
