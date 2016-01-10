@@ -1,6 +1,6 @@
 # vicky002.github.com 
 
-Just [my personal blog](http://vicky002.github.io) sources.
+Just [my personal blog](http://eulercoder.me) sources.
 
 # Please read this!
 
