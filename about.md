@@ -39,7 +39,7 @@ permalink: /about/
 </style>
 
 <p class="about"><strong>A Little about me:</strong>
-I love old and instrumental songs, play [Tabla](https://en.wikipedia.org/wiki/Tabla), singing and walking alone after the sunset,<a class="url linkedin with-icon" rel="me" href="https://www.linkedin.com/in/vikeshtiwari" title="My LinkedIn profile">build</a> something and make life easier, contribute to <a class="github url with-icon" title="My GitHub profile" href="http://github.com/vicky002">open source</a>, listening to good music, running and doing <a rel="me" class="twitter url with-icon" href="http://twitter.com/vikesh002" title="My Twitter account">other</a> <a rel="me" class="facebook with-icon url" href="https://www.facebook.com/blackhat002" title="My Facebook profile">silly</a> <a rel="me" class="livejournal url with-icon" href="http://eulercoder.me/archive/" title="My blog">things</a>. I live in <b>Mumbai</b>, India. Also known under <a href="https://goo.gl/I9kSp3">vicky002</a> nickname on the web.
+I love old and instrumental songs, singing and walking alone after the sunset, <a class="url linkedin with-icon" rel="me" href="https://www.linkedin.com/in/vikeshtiwari" title="My LinkedIn profile">building</a> network, contribute to <a class="github url with-icon" title="My GitHub profile" href="http://github.com/vicky002">open source</a>, listening to good music, running and doing <a rel="me" class="twitter url with-icon" href="http://twitter.com/vikesh002" title="My Twitter account">other</a> <a rel="me" class="facebook with-icon url" href="https://www.facebook.com/blackhat002" title="My Facebook profile">silly</a> <a rel="me" class="livejournal url with-icon" href="http://eulercoder.me/archive/" title="My blog">things</a>. I live in <b>Mumbai</b>, India. Also known under <a href="https://goo.gl/I9kSp3">vicky002</a> nickname on the web.
 </p>
 
 
@@ -50,11 +50,12 @@ I love old and instrumental songs, play [Tabla](https://en.wikipedia.org/wiki/Ta
  _____
 Interned with the CodeChef Team at Directi. Worked on Online Test Data Judge using C++, Cleaned Database, worked on moving problems, Worked on Data and Stats problems on CodeChef, Collected Learning module resources.
 
-**CodeChef, Directi**
-*MJan'16 to Present*
-----
+**CodeChef, Directi** 
+*Jan'16 to Present*
 
 ----
+No data for now. 
+
 
 **Chairperson SPIT Coder's Club**
 *June'14 - Present*
