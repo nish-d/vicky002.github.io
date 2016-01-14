@@ -21,9 +21,20 @@ permalink: /about/
   background-position: -10px -8px;
   padding-left: 21px;
 }
-.mapbox {
-  background-position: -10px -45px;
+.github {
+  background-position: -10px -80px;
   padding-left: 21px;
+}
+.livejournal {
+  background-position: -10px -224px;
+}
+.facebook {
+  background-position: -10px -260px;
+  padding-left: 21px;
+}
+.twitter {
+  background-position: -10px -296px;
+  padding-left: 19px;
 }
 </style>
 
