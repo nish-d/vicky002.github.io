@@ -4,21 +4,46 @@ title: Hi, I'm Vikesh
 permalink: /about/
 ---
 
-I'm a upcoming <b>Software developer</b> with a knack of <b>entrepreneurship</b>. 
+> I'm a upcoming <b>Software developer</b> with a knack of <b>entrepreneurship</b>. 
+
+<style type="text/css">
+.about, .contacts {
+  padding-left: 30px;
+}
+.with-icon {
+  padding-left: 20px;
+  background-repeat: no-repeat;
+  background-position: 0 2px;
+  background-image: url(favicons/sprite.png);
+}
+
+.linkedin {
+  background-position: -10px -8px;
+  padding-left: 21px;
+}
+.mapbox {
+  background-position: -10px -45px;
+  padding-left: 21px;
+}
+</style>
+
+<p class="about"><strong>A Little about me:</strong>
+I love old and instrumental songs, play [Tabla](https://en.wikipedia.org/wiki/Tabla), singing and walking alone after the sunset,<a class="url linkedin with-icon" rel="me" href="https://www.linkedin.com/in/vikeshtiwari" title="My LinkedIn profile">build</a> something and make life easier, contribute to <a class="github url with-icon" title="My GitHub profile" href="http://github.com/vicky002">open source</a>, listening to good music, running and doing <a rel="me" class="twitter url with-icon" href="http://twitter.com/vikesh002" title="My Twitter account">other</a> <a rel="me" class="facebook with-icon url" href="https://www.facebook.com/blackhat002" title="My Facebook profile">silly</a> <a rel="me" class="livejournal url with-icon" href="http://eulercoder.me/archive/" title="My blog">things</a>. I live in <b>Mumbai</b>, India. Also known under <a href="https://goo.gl/I9kSp3">vicky002</a> nickname on the web.
+</p>
 
 
-I'm an undergraduate at the [Sardar Patel Institute of Technology](http://www.spit.ac.in), University of Mumbai <br/>
-studying Information Technology. I've interned at [Directi](http://www.directi.com) in past. <br/>
-I'm also Technical Head of our college commitee ITSA and Chairperson of SPIT Coder's Club. Here is my [resume](https://github.com/vicky002/Resume/blob/master/resume.pdf).  
-
-<i>Quick Link</i>: [Work](#work) - [Projects](#projects) - [GitHub](https://www.github.com/vicky002) - [LinkedIn](https://www.linkedin.com/in/vikeshtiwari) - [Twitter](https://www.twitter.com/vikesh002) - [FaceBook](https://www.facebook.com/blackhat002)  
-
-## Work
+## My Work
 
  **CodeChef, Directi**
   *March'15 to Sept'15*
  _____
 Interned with the CodeChef Team at Directi. Worked on Online Test Data Judge using C++, Cleaned Database, worked on moving problems, Worked on Data and Stats problems on CodeChef, Collected Learning module resources.
+
+**CodeChef, Directi**
+*MJan'16 to Present*
+----
+
+----
 
 **Chairperson SPIT Coder's Club**
 *June'14 - Present*
