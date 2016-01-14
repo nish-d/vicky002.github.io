@@ -14,7 +14,7 @@ permalink: /about/
   padding-left: 20px;
   background-repeat: no-repeat;
   background-position: 0 2px;
-  background-image: url(favicons/sprite.png);
+  background-image: url(http://eulercoder.me/favicons/sprite.png);
 }
 
 .linkedin {
