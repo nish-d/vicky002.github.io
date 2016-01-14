@@ -45,16 +45,17 @@ I love old and instrumental songs, singing and walking alone after the sunset, <
 
 ## My Work
 
- **CodeChef, Directi**
-  *March'15 to Sept'15*
- _____
-Interned with the CodeChef Team at Directi. Worked on Online Test Data Judge using C++, Cleaned Database, worked on moving problems, Worked on Data and Stats problems on CodeChef, Collected Learning module resources.
-
 **CodeChef, Directi** 
 *Jan'16 to Present*
 
 ----
 No data for now. 
+
+
+ **CodeChef, Directi**
+  *March'15 to Sept'15*
+ _____
+Interned with the CodeChef Team at Directi. Worked on Online Test Data Judge using C++, Cleaned Database, worked on moving problems, Worked on Data and Stats problems on CodeChef, Collected Learning module resources.
 
 
 **Chairperson SPIT Coder's Club**
