@@ -20,7 +20,7 @@ In two hours, I updated the [twitter bootstrap](http://getbootstrap.com/) versio
 In short Jekyll is great, and I really liked it!
 
 
-This is my first post, I have thought of writing one post in a week. If you're interested in reading my posts, you can [leave you email here](http://eepurl.com/bIgxHz) (expect one mail in a week :) ).
+This is my first post, I have thought of writing one post in a week. If you're interested in reading my posts, you can [leave your email here](http://eepurl.com/bIgxHz) (expect one mail in a week :) ).
 
 
 
