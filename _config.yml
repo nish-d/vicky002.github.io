@@ -36,7 +36,7 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 # Sidebar setting
 sidebar: true
-sidebar-about-description: "Write code for the community, build something. World is so big, I want to see!"
+sidebar-about-description: "Follow the life of a upcoming Software developer as he brings his dreams to life. He writes about Open sources software, startup and Life."
 sidebar-avatar: /img/avatar-vicky.jpg
 
 # featured tags
