@@ -52,7 +52,7 @@ I love old and instrumental songs, singing and walking alone after the sunset, <
 No data for now. 
 
 
-### CodeChef, Directi**
+### CodeChef, Directi
   *March'15 to Sept'15*
  _____
 Interned with the CodeChef Team at Directi. Worked on Online Test Data Judge using C++, Cleaned Database, worked on moving problems, Worked on Data and Stats problems on CodeChef, Collected Learning module resources.
@@ -64,7 +64,7 @@ Interned with the CodeChef Team at Directi. Worked on Online Test Data Judge usi
 ---
 I started first Coder's club to promote competitive programming, open source developement and expose students moderns technology not present in the classroom. Organized workshops and 3 Online competitions and 60 days Open source project challenge till now. 
 
-## Technical Head - Information Technology Student's Association
+### Technical Head - Information Technology Student's Association
 *June'15 - Present*
 
 ---
@@ -163,7 +163,5 @@ I try to be very responsive through various channels and read everything inbound
 <br/><br/>
 
 
-Wanna talk about something? Want to hire me? Looking for a consultant?
-[**Contact me**](/contact).
 
 
