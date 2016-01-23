@@ -1,7 +1,12 @@
 ---
 layout: post
 title: "Code Every Day"
-tags: [techonlogy, open source, learning]
+date: 2016-01-16 12:00:00
+author: "Vikesh Tiwari"
+tags:
+    - techonlogy
+    - open source
+    - learning
 ---
 
 Hello!
