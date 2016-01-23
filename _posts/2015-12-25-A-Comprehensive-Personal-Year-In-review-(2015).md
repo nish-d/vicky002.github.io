@@ -1,7 +1,12 @@
 ---
 layout: post
 title: "A Comprehensive Personal Year In review (2015)"
-tags: [personal, life improvement, career]
+date: 2015-12-25 12:00:00
+author: "Vikesh Tiwari"
+tags:
+    - personal
+    - life improvement
+    - career
 ---
 
 Hello!

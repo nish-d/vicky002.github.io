@@ -1,9 +1,13 @@
 ---
 layout: post 
 title: "Hello World"
-tags: [reading, github-blog, jekyll]
+date: 2015-12-03 12:00:00
+tags:
+    - reading
+    - github-blog
+    - jekyll]
 ---
-![img](https://raw.githubusercontent.com/vicky002/vicky002.github.io/master/img/pic.jpg)
+
 
 Hello everyone :)
 

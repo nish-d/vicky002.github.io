@@ -1,47 +1,62 @@
 # Dependencies
-markdown: redcarpet
-highlighter: pygments
+markdown: kramdown
+kramdown:
+  input: GFM
 
-# Permalinks
-permalink: /posts/:title
-timezone: Asia/Kolkata
 
 # Setup
 title: Vikesh Tiwari
+SEOTitle: Vikesh Tiwari Blog | vicky002
+header-img: img/home-bg.jpg
+email: hi@eulercoder.me
 description: 'Follow the life of a upcoming Software developer as he brings his dreams to life. He writes about Open sources software, startup and Life.'
 baseurl:     ''
-url:         'http://vicky002.github.io'
-
-author:
-  name: 'Vikesh Tiwari'
-  url: https://twitter.com/vikesh002
-  email: tvicky002+gitpages@gmail.com
-
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - bin
-
-gems:
-  # - jekyll-mentions
-  - jemoji
-  - jekyll-redirect-from
-
-sass:
-  sass_dir: _scss
-  compressed: true
-
-paginate: 4
-
-# Custom vars
-show_related_posts: true
-animated: true
+keyword: "vicky002, vikesh tiwari, @vikesh002, vicky, blackhat002, vikesh tiwari codechef, vicky tiwari, vikesh tiwari github"
+url:         'http://eulercoder.me'
 
 # Social icons
+RSS: false
 show_social_icons: true
 github_username: vicky002
 twitter_username: vikesh002
+linkedin_username: vikeshtiwari
+facebook_username: blackhat002
 
-google_analytics: UA-45497633-11
+# Analytics setting
+ga_track_id: 'UA-45497633-11'
+ga_domain: vicky002.github.io
 disqus_shortname: vicky002
+
+
+# Build setting
+highlighter: pygments
+permalink: pretty
+paginate: 8
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+# Sidebar setting
+sidebar: true
+sidebar-about-description: "Write code for the community, build something. World is so big, I want to see!"
+sidebar-avatar: /img/avatar-vicky.jpg
+
+# featured tags
+featured-tags: true
+featured-condition-size: 1
+
+# friends
+
+friends: [
+  {
+    "title": "Krish Munot",
+    "href": "https://krishmunot.github.io"
+  },
+  {
+    "title": "Pratik Solim",
+    "href": "http://pratiksolim.xyz"
+  },
+  {
+    "title": "Shivam Khandelwal",
+    "href": "http://shivamkhandelwal.in"
+  }
+]
 

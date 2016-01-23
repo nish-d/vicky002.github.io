@@ -5,10 +5,17 @@ layout: default
 <!-- Post Header -->
 <style type="text/css">
     header.intro-header{
-        background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')
+        height: 500px;
+        overflow: hidden;
+    }
+    header iframe{
+        width: 100%;
+        height: 100%;
+        border: 0;
     }
 </style>
 <header class="intro-header" >
+    <iframe src="{{page.iframe}}"/>
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
@@ -20,7 +27,7 @@ layout: default
                     </div>
                     <h1>{{ page.title }}</h1>
                     {% comment %}
-                    always create a h2 for `eeping the margin , Hux
+                    always create a h2 for keeping the margin , Hux
                     {% endcomment %}
                     {% comment %} if page.subtitle {% endcomment %}
                     <h2 class="subheading">{{ page.subtitle }}</h2>
@@ -30,6 +37,7 @@ layout: default
             </div>
         </div>
     </div>
+    </iframe>
 </header>
 
 <!-- Post Content -->
@@ -38,16 +46,33 @@ layout: default
         <div class="row">
 
             <!-- Post Container -->
-            <div class="
+            <div class="post-container
                 col-lg-8 col-lg-offset-2
-                col-md-10 col-md-offset-1
-                post-container">
+                col-md-10 col-md-offset-1 ">
 
                 {{ content }}
 
                 <hr>
-
-
+                </style>
+                <div class="ds-share"
+                style="text-align: right"
+                data-thread-key="{{page.id}}" data-title="{{page.title}}"
+                data-images="{{ site.url }}{{site.baseurl}}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}"
+                data-content="{{ content | strip_html | truncate:80 }} | Hux Blog，@Hux黄玄 的个人博客"
+                data-url="{{site.url}}{{site.baseurl}}{{page.url}}">
+                <div class="ds-share-inline">
+                <ul  class="ds-share-icons-16">
+                <li data-toggle="ds-share-icons-more"><a class="ds-more" href="#">分享到：</a></li>
+                                                                                            <li><a class="ds-wechat flat" href="javascript:void(0);" data-service="wechat">微信</a></li>
+                                                                                                                                                                                   <li><a class="ds-weibo flat" href="javascript:void(0);" data-service="weibo">微博</a></li>
+                                                                                                                                                                                                                                                                        <li><a class="ds-douban flat" href="javascript:void(0);" data-service="douban">豆瓣</a></li>
+                                                                                                                                                                                                                                                                                                                                                               </ul>
+                                                                                                                                                                                                                                                                                                                                                                 <div class="ds-share-icons-more">
+                </div>
+                  </div>
+                    <hr>
+                    </div>
+                     {% endif %}
 
 
                 <ul class="pager">
@@ -64,22 +89,34 @@ layout: default
                 </ul>
 
 
+                  {% if site.duoshuo_username %}
+                <!-- 多说评论框 start -->
+                <div class="comment">
+                <div class="ds-thread"
+                data-thread-key="{{page.id}}"
+                data-title="{{page.title}}"
+                data-url="{{site.url}}{{site.baseurl}}{{page.url}}" >
+                </div>
+                  </div>
+                <!--  end -->
+                {% endif %}
 
                 {% if site.disqus_username %}
-                <!-- disqus start -->
+                <!-- disqus  start -->
                 <div class="comment">
-                <div id="disqus_thread" class="disqus-thread"></div>
-                                                                </div>
-                <!-- disqus end -->
+                <div id="disqus_thread" class="disqus-thread">
+
+                </div>
+                  </div>
+                <!-- disqus 评论框 end -->
                 {% endif %}
 
                 </div>
 
                 <!-- Sidebar Container -->
-                <div class="
+                <div class="sidebar-container
                 col-lg-8 col-lg-offset-2
-                col-md-10 col-md-offset-1
-                sidebar-container">
+                col-md-10 col-md-offset-1 ">
 
                 <!-- Featured Tags -->
                 {% if site.featured-tags %}
@@ -113,11 +150,33 @@ layout: default
                     </div>
                       </article>
 
+                <!-- resize header to fullscreen keynotes -->
+                <script>
+                 var $header = document.getElementsByTagName("header")[0];
+                function resize(){
+                /*
+                 * leave 85px to both
+                 * - told/imply users that there has more content below
+                 * - let user can scroll in mobile device, seeing the keynote-view is unscrollable
+                 */
+                    $header.style.height = (window.innerHeight-85) + 'px';
+                }
+                document.addEventListener('DOMContentLoaded', function(){
+                resize();
+                })
+                window.addEventListener('load', function(){
+                resize();
+                })
+                window.addEventListener('resize', function(){
+                resize();
+                })
+                resize();
+                </script>
+
 
 
 
                 {% if site.disqus_username %}
-                <!-- disqus  start -->
                 <script type="text/javascript">
                 /* * * CONFIGURATION VARIABLES * * */
                 var disqus_shortname = "{{site.disqus_username}}";
@@ -130,7 +189,7 @@ layout: default
                 (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
                 })();
                 </script>
-                <!-- disqus end -->
+                <!-- disqus  end -->
                 {% endif %}
 
 
