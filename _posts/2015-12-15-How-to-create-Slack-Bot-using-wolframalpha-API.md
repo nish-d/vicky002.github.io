@@ -1,6 +1,7 @@
 ---
 layout: post 
 title: "How to create Slack Bot using Wolframalpha API"
+tags: [Slack, Bots, Technology, open source]
 ---
 
 Hello everyone,

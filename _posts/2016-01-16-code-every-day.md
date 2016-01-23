@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Code Every Day"
+tags: [techonlogy, open source, learning]
 ---
 
 Hello!

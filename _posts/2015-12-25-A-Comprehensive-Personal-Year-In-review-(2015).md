@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "A Comprehensive Personal Year In review (2015)"
+tags: [personal, life improvement, career]
 ---
 
 Hello!

@@ -1,6 +1,7 @@
 ---
 layout: post 
 title: "Hello World"
+tags: [reading, github-blog, jekyll]
 ---
 ![img](https://raw.githubusercontent.com/vicky002/vicky002.github.io/master/img/pic.jpg)
 
