@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hi, I'm Vikesh
+title: About
 permalink: /about/
 ---
 
@@ -45,26 +45,26 @@ I love old and instrumental songs, singing and walking alone after the sunset, <
 
 ## My Work
 
-**CodeChef, Directi** 
+### CodeChef, Directi
 *Jan'16 to Present*
 
 ----
 No data for now. 
 
 
- **CodeChef, Directi**
+### CodeChef, Directi**
   *March'15 to Sept'15*
  _____
 Interned with the CodeChef Team at Directi. Worked on Online Test Data Judge using C++, Cleaned Database, worked on moving problems, Worked on Data and Stats problems on CodeChef, Collected Learning module resources.
 
 
-**Chairperson SPIT Coder's Club**
+### Chairperson SPIT Coder's Club
 *June'14 - Present*
 
 ---
 I started first Coder's club to promote competitive programming, open source developement and expose students moderns technology not present in the classroom. Organized workshops and 3 Online competitions and 60 days Open source project challenge till now. 
 
-**Technical Head - Information Technology Student's Association** 
+## Technical Head - Information Technology Student's Association
 *June'15 - Present*
 
 ---
@@ -75,7 +75,7 @@ As a Technical Head of ITSA Committee, I was involved in all the technical event
 
 I started working on projects in the winter of 2013. You can check out my open source project on [GitHub](www.github.com/vicky002). Here are some of the best ones.
 
-**Bots**
+### Bots
 
  - **[The L](https://twitter.com/The_L__) Twitter Bot** 
 
@@ -85,7 +85,7 @@ I started working on projects in the winter of 2013. You can check out my open s
 
     Slack-TheL is a bot for slack very similar to Twitter bot created using Flask (python framework) and Wolframalpha Module. It can answer question from History to current temperature and even mathematical computations. The Bot is deployed on Heroku. I have also written a tutorial on [How to create bots for slack using Wolframalpha API](http://eulercoder.me/posts/How-to-create-Slack-Bot-using-wolframalpha-API).
 
-**Community Projects**
+### Community Projects
 
  - **[AlgoWiki - All CS resources at one place!]((https://github.com/vicky002/AlgoWiki))**
  
@@ -104,7 +104,7 @@ I started working on projects in the winter of 2013. You can check out my open s
 	
   	Best practices of everything in Computer Science!
 
-**Web Apps**
+## Web Apps
 
  - **[WebMusicPlayer](https://github.com/vicky002/WebMusicPlayer)**
   
@@ -118,21 +118,25 @@ I started working on projects in the winter of 2013. You can check out my open s
   
     Simple web apps created using Django. Repo contains Pastebin and Blog in Django.
 
-**Packages**
+## Packages
 
  - **[C++ and Algorithm Sublime Text Package](https://github.com/vicky002/Cplusplus_and_Algo_Sublime_Package)**
  	
     Sublime Text Snippets for competitive Programming.
 
+ - **[Milotic Theme](https://github.com/vicky002/Milotic)**
+
+    Milotic - The best colorful theme for all text editors!
+
  - **[L - Commands](https://github.com/vicky002/L-Commands)** _(ongoing)_
  	
-    Powerful custom Linux Commands. 
+    Powerful custom Linux Commands.
 
  - **[CodeChef API](https://github.com/vicky002/CodeChef-API)**
   
     Unofficial CodeChef to fetch user stats. Created using Scrapy - Python.
 
-**Android Apps**
+### Android Apps
 
  - **[Flag Quiz Android App](https://github.com/vicky002/FlagQuiz-Android_App)**
   

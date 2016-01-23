@@ -2,6 +2,7 @@
 layout: post
 title: "A Comprehensive Personal Year In review (2015)"
 date: 2015-12-25 12:00:00
+header-img: "img/mountain.jpg"
 author: "Vikesh Tiwari"
 tags:
     - personal

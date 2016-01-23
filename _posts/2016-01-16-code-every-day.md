@@ -3,6 +3,7 @@ layout: post
 title: "Code Every Day"
 date: 2016-01-16 12:00:00
 author: "Vikesh Tiwari"
+header-img: "img/home-bg-art.jpg"
 tags:
     - techonlogy
     - open source

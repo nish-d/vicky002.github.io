@@ -2,6 +2,7 @@
 layout: post 
 title: "Hello World"
 date: 2015-12-03 12:00:00
+header-img: "img/home-bg-art.jpg"
 tags:
     - reading
     - github-blog
