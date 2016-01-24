@@ -172,7 +172,7 @@ At the beginning of this I said I wasn't going to preach. I lied. Always stash w
     +shock
  
 
-By default git stash does not stash untracked files. Throw a -u on the end. Also, git stash list shows you your stashes, however the default message it saves with it is the message of the latest commit and the branch you stashed it on. 
+By default git stash does not stash untracked files. Throw a -u on the end. Also, git stash list shows your stashes, however the default message it saves with it is the message of the latest commit and the branch you stashed it on. 
 This is… super unhelpful. Make sure to add save to your git stash command and follow it with a message. You’re really smart. 
 You’re also busy and you will totally forget what the hell is in your stashes if more than say 15 minutes pass. 
 I promise you. Then when you come in the next day and run git stash list and see a list of stashes with commit messages that have nothing to do with the work in the stash you’ll want to scream.
@@ -293,7 +293,7 @@ git will now have record of two sha's with the same exact changes. Proceed with 
 
 ## Vicky, what if I want to figure what commit broke my favourite fature?!
 
-[Biset](http://git-scm.com/docs/git-bisect) is your friend! (Seriously the doc is worth reading!)
+[Bisect](http://git-scm.com/docs/git-bisect) is your friend! (Seriously the doc is worth reading!)
 
  
      git bisect start
