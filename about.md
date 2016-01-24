@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-> I'm a upcoming <b>Software developer</b> with a knack of <b>entrepreneurship</b>. 
+> I'm a upcoming <b>Software developer</b> with a knack for <b>entrepreneurship</b>. 
 
 <style type="text/css">
 .about, .contacts {
