@@ -6,7 +6,7 @@ header-img: "img/home-bg-art.jpg"
 tags:
     - reading
     - github-blog
-    - jekyll]
+    - jekyll
 ---
 
 
