@@ -24,8 +24,7 @@ Hello!
 - It is not preachy. (see the first point)
 - It is not in any way exhaustive. This is a list of git commands, tips, tricks and tools I personally find useful and use it nearly every day.
 
-This is a series of things I often discover people struggle with, don't know how to do, or have bizarre work arounds to get this information. You may know some or all of these already. But these are the things I learned while working on open source projects and contributing to other's repository. I hope you find something 
-in here and I hope it saves you time. NOTE: I use homebrew in Mac OS and default shell in Ubuntu system. I know 90% of you reading this probably use [bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)).
+This is a series of things I often discover people struggle with, don't know how to do, or have bizarre work arounds to get this information. You may know some or all of these already. But these are the things I learned while working on open source projects and contributing to other's repository. I hope you find something in here and I hope it saves you time. NOTE: I use homebrew in Mac OS and default shell in Ubuntu system. I know 90% of you reading this probably use [bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)).
 
 Ok let's get started!
 
@@ -174,8 +173,7 @@ This is… super unhelpful. Make sure to add save to your git stash command and 
  
 ## Getting your stashed stuff!
 
-`git stash apply stash@{3}` will apply fourth (it’s zero-indexed) stash’s content to your current branch and the stash will remain in the stash list. 
-However, `git stash pop stash@{3}` will remove the fourth stash from the list moving all stashes after it up one on the index. pop is probably what you most often want, but it’s also more dangerous for obvious reasons. If you would rather use apply you can safely run `git stash drop stash@{3}` after you’re cool with getting rid of that stash.
+`git stash apply stash@{3}` will apply fourth (it’s zero-indexed) stash’s content to your current branch and the stash will remain in the stash list. However, `git stash pop stash@{3}` will remove the fourth stash from the list moving all stashes after it up one on the index. pop is probably what you most often want, but it’s also more dangerous for obvious reasons. If you would rather use apply you can safely run `git stash drop stash@{3}` after you’re cool with getting rid of that stash.
 With git stash list the stashes reindex after you remove a stash. 
 
 Let’s say you have three stashes. If you try to do something like this `git stash drop stash@{1} && git drop stash@{2}` this will fail because the stash at index 2 is now at index 1 after having dropped the stash at index 1. When removing multiple stashes remove from the highest numbered index on down or… just be really really careful.
@@ -183,8 +181,7 @@ Let’s say you have three stashes. If you try to do something like this `git st
 
 ## Clean up after yourself with git rebase -- interactive
 
-When you work on a project or contributing to others code. At the end of the features and fixes, you'll have tons of shitty commits. It's just the way things work. When I was working on Apple's [Swift repository](https://github.com/apple/swift) I made lot of changes and made tons of commit. Developers and owners always ask to squash
-all your commits into one. Those commits aren't going to be helpful to anyone once this is merged to master. And some day if they find a bug and have to do a git blame and see that vicky002 committed this code six months ago with the commit message “WIP. Fixed shit.” they are going to (rightfully) curse my name. 
+When you work on a project or contributing to others code. At the end of the features and fixes, you'll have tons of shitty commits. It's just the way things work. When I was working on Apple's [Swift repository](https://github.com/apple/swift) I made lot of changes and made tons of commit. Developers and owners always ask to squash all your commits into one. Those commits aren't going to be helpful to anyone once this is merged to master. And some day if they find a bug and have to do a git blame and see that vicky002 committed this code six months ago with the commit message “WIP. Fixed shit.” they are going to (rightfully) curse my name. 
 Lets not be that person. Lets use interactive rebase. 
 
     git rebase --interactive 
