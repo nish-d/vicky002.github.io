@@ -24,8 +24,7 @@ Hello!
 - It is not preachy. (see the first point)
 - It is not in any way exhaustive. This is a list of git commands, tips, tricks and tools I personally find useful and use it nearly every day.
 
-This is a series of things I often discover people struggle with, don't know how to do, or have bizarre work arounds to get this information.
-You may know some or all of these already. But these are the things I learned while working on open source projects and contributing to other's repository. I hope you find something 
+This is a series of things I often discover people struggle with, don't know how to do, or have bizarre work arounds to get this information. You may know some or all of these already. But these are the things I learned while working on open source projects and contributing to other's repository. I hope you find something 
 in here and I hope it saves you time. NOTE: I use homebrew in Mac OS and default shell in Ubuntu system. I know 90% of you reading this probably use [bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell)).
 
 Ok let's get started!
@@ -68,10 +67,8 @@ Ok let's get started!
     +bar
     
 "But vicky, this seems unnecessary. I can clearly see in git status that I have a commit that's not pushed yet." You're correct!
- This isn't world's greatest use-case example. However, I use this most often when I need to see what changes might be incoming or to diff
- between my branch and master. If you're working on a feature branch for few days, and want to see a diff between your feature branch and master
- doing `git diff master feature_branch` will only show you diff between your local copy of master and feature_branch. What you need to 
- do in this situation is this -> `git fetch origin && git diff origin/master feature_branch`. The fetch is important here.
+ This isn't world's greatest use-case example. However, I use this most often when I need to see what changes might be incoming or to diff between my branch and master. If you're working on a feature branch for few days, and want to see a diff between your feature branch and master
+ doing `git diff master feature_branch` will only show you diff between your local copy of master and feature_branch. What you need to do in this situation is this -> `git fetch origin && git diff origin/master feature_branch`. The fetch is important here.
  NOTE: If you're unclear on the difference between fetch and pull I highly recommend you take 15 minutes and [read up on it](http://stackoverflow.com/questions/292357/what-are-the-differences-between-git-pull-and-git-fetch).
  
 ## How to check out a file from one branch into another
@@ -173,27 +170,21 @@ At the beginning of this I said I wasn't going to preach. I lied. Always stash w
  
 
 By default git stash does not stash untracked files. Throw a -u on the end. Also, git stash list shows your stashes, however the default message it saves with it is the message of the latest commit and the branch you stashed it on. 
-This is… super unhelpful. Make sure to add save to your git stash command and follow it with a message. You’re really smart. 
-You’re also busy and you will totally forget what the hell is in your stashes if more than say 15 minutes pass. 
-I promise you. Then when you come in the next day and run git stash list and see a list of stashes with commit messages that have nothing to do with the work in the stash you’ll want to scream.
+This is… super unhelpful. Make sure to add save to your git stash command and follow it with a message. You’re really smart. You’re also busy and you will totally forget what the hell is in your stashes if more than say 15 minutes pass. I promise you. Then when you come in the next day and run git stash list and see a list of stashes with commit messages that have nothing to do with the work in the stash you’ll want to scream.
  
 ## Getting your stashed stuff!
 
 `git stash apply stash@{3}` will apply fourth (it’s zero-indexed) stash’s content to your current branch and the stash will remain in the stash list. 
-However, `git stash pop stash@{3}` will remove the fourth stash from the list moving all stashes after it up one on the index. pop is probably what you most often want, but it’s also more dangerous for obvious reasons. 
-If you would rather use apply you can saftely run `git stash drop stash@{3}` after you’re cool with getting rid of that stash.
+However, `git stash pop stash@{3}` will remove the fourth stash from the list moving all stashes after it up one on the index. pop is probably what you most often want, but it’s also more dangerous for obvious reasons. If you would rather use apply you can safely run `git stash drop stash@{3}` after you’re cool with getting rid of that stash.
 With git stash list the stashes reindex after you remove a stash. 
 
-Let’s say you have three stashes. If you try to do something like this `git stash drop stash@{1} && git drop stash@{2}` this will fail because the stash at index 2 is now at index 1 after having dropped the stash at index 1. 
-When removing multiple stashes remove from the highest numbered index on down or… just be really really careful.
+Let’s say you have three stashes. If you try to do something like this `git stash drop stash@{1} && git drop stash@{2}` this will fail because the stash at index 2 is now at index 1 after having dropped the stash at index 1. When removing multiple stashes remove from the highest numbered index on down or… just be really really careful.
 
 
 ## Clean up after yourself with git rebase -- interactive
 
-When you work on a project or contributing to others code. At the end of the features and fixes, you'll have tons of shitty commits.
-It's just the way things work. When I was working on Apple's [Swift repository](https://github.com/apple/swift) I made lot of changes and made tons of commit. Developers and owners always ask to squash
-all your commits into one. Those commits aren't going to be helpful to anyone once this is merged to master. And some day if they find a bug and have to do a git blame and see that vicky002 commited 
-this code six months ago with the commit message “WIP. Fixed shit.” they are going to (rightfully) curse my name. 
+When you work on a project or contributing to others code. At the end of the features and fixes, you'll have tons of shitty commits. It's just the way things work. When I was working on Apple's [Swift repository](https://github.com/apple/swift) I made lot of changes and made tons of commit. Developers and owners always ask to squash
+all your commits into one. Those commits aren't going to be helpful to anyone once this is merged to master. And some day if they find a bug and have to do a git blame and see that vicky002 committed this code six months ago with the commit message “WIP. Fixed shit.” they are going to (rightfully) curse my name. 
 Lets not be that person. Lets use interactive rebase. 
 
     git rebase --interactive 
@@ -255,8 +246,7 @@ From the help:
 
 ## Squash your commit if the branch is truly a mess
 
-If your branch's commit history is a complete mess but you know you want what is there currenlty another branch (most likely master) 
--- squash is your friend.
+If your branch's commit history is a complete mess but you know you want what is there currenlty another branch (most likely master) -- squash is your friend.
     
     git commit -m 'hey'
     [new_branch bacb008] hey
@@ -288,8 +278,7 @@ If your branch's commit history is a complete mess but you know you want what is
     git checkout branch_you_want_to_move_commit_to && git cherry-pick 240982d 
     # You don't need the full sha, just enough that git understands it.
 
-This can be a tad dangerous. Specially  --git will assign a new sha to the cherry-picked commit. Which means
-git will now have record of two sha's with the same exact changes. Proceed with caution.
+This can be a tad dangerous. Specially  --git will assign a new sha to the cherry-picked commit. Which means git will now have record of two sha's with the same exact changes. Proceed with caution.
 
 ## Vicky, what if I want to figure what commit broke my favourite fature?!
 
@@ -318,8 +307,7 @@ If there is a commit you just flat out don’t want to have and want to fix it a
 
 ## Finally
 
-Git is a tool. It is a means to an end. Not the end. Mastering your tools is a essential in becoming a better and more efficient programmer.
-However, use whatever you feel more comfortable with. If you are happy with your GUI Git applications  of choice then use it. Occassioanly though
+Git is a tool. It is a means to an end. Not the end. Mastering your tools is a essential in becoming a better and more efficient programmer. However, use whatever you feel more comfortable with. If you are happy with your GUI Git applications  of choice then use it. Occassioanly though
 these apps cause problems and you gotta jump into the commandline and get your hands dirty.
  
 ## References
