@@ -66,8 +66,7 @@ Ok let's get started!
     +bar
     
 "But vicky, this seems unnecessary. I can clearly see in git status that I have a commit that's not pushed yet." You're correct!
- This isn't world's greatest use-case example. However, I use this most often when I need to see what changes might be incoming or to diff between my branch and master. If you're working on a feature branch for few days, and want to see a diff between your feature branch and master
- doing `git diff master feature_branch` will only show you diff between your local copy of master and feature_branch. What you need to do in this situation is this -> `git fetch origin && git diff origin/master feature_branch`. The fetch is important here.
+ This isn't world's greatest use-case example. However, I use this most often when I need to see what changes might be incoming or to diff between my branch and master. If you're working on a feature branch for few days, and want to see a diff between your feature branch and master doing `git diff master feature_branch` will only show you diff between your local copy of master and feature_branch. What you need to do in this situation is this -> `git fetch origin && git diff origin/master feature_branch`. The fetch is important here.
  NOTE: If you're unclear on the difference between fetch and pull I highly recommend you take 15 minutes and [read up on it](http://stackoverflow.com/questions/292357/what-are-the-differences-between-git-pull-and-git-fetch).
  
 ## How to check out a file from one branch into another
@@ -209,15 +208,13 @@ When you run that git will open your text editor and have a list of all of the c
     #
     # Note that empty commits are commented out
     
-See all that lovely help from git? There’s not much more I can add here. You literally just follow along and git tells you what to do. 
-I bring this up entirely because people seem to rarely use it.
+See all that lovely help from git? There’s not much more I can add here. You literally just follow along and git tells you what to do. I bring this up entirely because people seem to rarely use it.
 
 ## Interactively add your changes to the commit stage
 
     git add --patch
     
-Note — this only works with files that are already being tracked by git. It does not work with untracked files. Split is super powerful and conveinent. 
-If it gets really hairy you can use e to manually edit the hunk.
+Note — this only works with files that are already being tracked by git. It does not work with untracked files. Split is super powerful and conveinent. If it gets really hairy you can use e to manually edit the hunk.
 
 From the help:
 
