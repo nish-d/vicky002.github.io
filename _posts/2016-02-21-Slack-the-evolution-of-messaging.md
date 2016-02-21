@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Slack the evolution of messaging"
-date: 2016-02-22 12:00:00
-header-img: "img/Slack-Logo.jpg"
+date: 2016-02-21 12:00:00
 author: "Vikesh Tiwari"
+header-img: "img/Slack-Logo.jpg"
 tags:
     - reading
     - Slack
