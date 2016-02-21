@@ -3,7 +3,7 @@ layout: post
 title: "Slack the evolution of messaging"
 date: 2016-02-21 12:00:00
 author: "Vikesh Tiwari"
-header-img: "img/Slack-Logo.jpg"
+header-img: "img/slack_cmyk_1397_400-min.jpg"
 tags:
     - reading
     - Slack
@@ -66,10 +66,10 @@ Imagine the delight of posting a link to a Google doc, then finding the content 
     Send a stamp to someone with your current location. This saves a lot of messing around with directions. This may not be a great feature but obviously it's good to have.
 
 - **Message delivered and seen**
-    User should be able to se when someone opened your message, so he/shee knows whether or not it has been read yet. Well, this features has it's own views sometimes, I feel I don't want user to see this whether I have read those messages or not so it can be something like if I hide `read status`, I shouldn't be able to check other's too!
+    User should be able to see when someone opened your message, so he/she knows whether or not it has been read yet. Well, this features has it's own views sometimes, I feel I don't want user to see this whether I have read those messages or not so it can be something like if I hide `read status`, I shouldn't be able to check other's too!
 
 - **Contacts integration**
-    There should a way to quick invite a phone contact to a particular channel, and user will have only access to that particular group only. User have to use his/her email to join the Slack team. Their will be really helpful.
+    There should a way to quickly invite a phone contact to a particular channel, and user will have only access to that particular group only. User have to use his/her email to join the Slack team. Their will be really helpful.
     
 If I talk about WhatsApp, With 1 Billion users, virtually everyone including your grandma is on WhatsApp now, and hence 'adoption' is really a big challenge. 
 
