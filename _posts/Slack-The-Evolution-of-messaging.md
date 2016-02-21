@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: "Slack the evolution of messaging"
-date: 2015-12-03 12:00:00
+date: 2016-2-21 12:00:00
 header-img: "img/Slack-Logo.jpg"
 tags:
     - reading
