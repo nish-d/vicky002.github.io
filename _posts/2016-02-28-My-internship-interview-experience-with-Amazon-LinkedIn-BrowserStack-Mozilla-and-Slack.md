@@ -14,7 +14,7 @@ tags:
 <meta name="twitter:site" content="@vikesh002">
 <meta name="twitter:creator" content="@vikesh002">
 <meta name="twitter:title" content="My internship interview experience with Amazon, LinkedIn, BrowserStack, Mozilla and Slack">
-<meta name="twitter:description" content="Follow the life of a upcoming Software developer as he brings his dreams to life. He writes about Open sources software, startup and Life">
+<meta name="twitter:description" content="Words are pale shadows of forgotten names. As names have power, words have power. Words can light fires in the minds of men. Words can wring tears from the hardest hearts">
 <meta name="twitter:image" content="eulercoder.me/img/SanFrancisco-min.jpg">
 
 
