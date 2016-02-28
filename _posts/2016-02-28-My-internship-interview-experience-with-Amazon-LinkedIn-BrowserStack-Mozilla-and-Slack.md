@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "My internship interview experience with Amazon, LinkedIn, BrowserStack, Mozilla and Slack"
-date: 2016-02-28 12:00:00
+date: 2016-02-27 12:00:00
 author: "Vikesh Tiwari"
-header-img: "img/SanFrancisco-min.jpg"
+header-img: "img/"
 tags:
     - reading
     - interview
@@ -16,14 +16,14 @@ Hello!
 
 
 
-It all started in December last year before going on North East trip I had applied to 20 companies for Software engineering internships. Twelve companies sent me that same <a href="www.greenhouse.io" target="_blank">Greenhouse</a> rejection template, three companies said their summer internship positions are full and I got shortlisted for five companies. 
+It all started in December last year before going on North East trip I had applied to 20+ companies for Software engineering internships. Twelve companies sent me that same <a href="https://www.greenhouse.io" target="_blank">Greenhouse</a> rejection template, three companies said their summer internship positions are full and I got shortlisted for five companies. 
  
-I had already started my internship at <a href="www.codechef.com" target="_blank">CodeChef</a> (Jan'16 - April'16), my daily schedule is 8 - 4 PM college and then 4:30 - 9,10 at CodeChef. I reach home by 11-11:30, so I used to sleep late and bunk lecture to prepare for the interviews. I'll write about the study plans, books and resume tips someday later, today I'll only write about the interview process.
+I had already started my internship at <a href="https://www.codechef.com" target="_blank">CodeChef</a> (Jan'16 - April'16), my daily schedule is 8 - 4 PM college and then 4:30 - 9,10 at CodeChef. I reach home by 11-11:30, so I used to sleep late and bunk lecture to prepare for the interviews. I'll write about the study plans, books and resume tips someday later, Let's discuss about the interview process today.
  
 
 # Mozilla
  
-I applied to [Mozilla](https://www.mozilla.org/en-US) through [career website](https://careers.mozilla.org/) for multiple internship position in many places. I got shortlisted for Developer Tools (Device Simulation) and Engineering Build Productivity intern positions in Paris and Mountain View respectively. For both positions first round was on [Hackerrank](www.hackerrank.com). 
+I applied to <a href="https://www.mozilla.org/en-US" target="_blank"></a> through <a href="https://careers.mozilla.org/" target="_blank">career website</a> for multiple internship position in many places. I got shortlisted for Developer Tools (Device Simulation) and Engineering Build Productivity intern positions in Paris and Mountain View respectively. For both positions first round was on <a href="https://www.hackerrank.com" target="_blank">Hackerrank</a>.
  - There were 4 - 5 multiple choice questions and two coding problems. 
  - For each MCQs you need to give explanation also. 
  - Questions were very easy. 
@@ -42,7 +42,7 @@ I had performed well but I don't why they replied with this 'we appreciate your 
 
 # BroswerStack
 
-I applied through career website and got a responses after almost 20 days. First round was on [Hackerearth](www.hackerearth.com). There were total three problems to solve in three hours. 
+I applied through career website and got a responses after almost 20 days. First round was on <a href="https://www.hackerearth.com" target="_blank">Hackerearth</a>. There were total three problems to solve in three hours. 
 
 ## Problems
 
@@ -62,15 +62,15 @@ I got shortlisted for Amazon internship two times. Last year they asked me if I'
 First round was on Hackerrank. There were total 2-3 problems to solve in an hour.
 
 ## Problems
-- [Parenthesis Matching problem](http://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/)
-- [Longest Path in Binary Tree](http://www.geeksforgeeks.org/write-a-c-program-to-find-the-maximum-depth-or-height-of-a-tree/)
+- <a href="http://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/" target="_blank">Parenthesis Matching problem</a>
+- <a href="http://www.geeksforgeeks.org/write-a-c-program-to-find-the-maximum-depth-or-height-of-a-tree/" target="_blank">Longest Path in Binary Tree</a>
 - I don't remember the third problem. 
 
 Problems were easy, I solved all the three problems and moved to next round. 
 
 # Slack
 
-I had moved to second round of Amazon internship and suddendly one day BAM! **Subject** : 'Phone Interview with Slack!'. I wasn't expecting this as no internship positions were mentioned on the website. I had mailed them my resume only because I really love the product. Read this : [g]()
+I had moved to second round of Amazon internship and suddendly one day BAM! **Subject** : 'Phone Interview with <a href="https://www.slack.com" target="_blank">Slack</a>!'. I wasn't expecting this as no internship positions were mentioned on the website. I had mailed them my resume only because I really love the product. Read this : <a href="http://eulercoder.me/2016/02/21/Slack-the-evolution-of-messaging/" target="_blank">Slack the evolution of messaging</a>
 
 Now I was just focusing on this internship, I didn't want to lose this one. 
 
@@ -88,7 +88,7 @@ then she explained me the whole interview process, Visa process and other stuff.
 ### Second Round
 In the second round I was given a coding assignment with two tasks to complete in a week. Both the tasks were of medium level one Coding task and one design problem. This depends on the position you're applying for. 
 
-I completed both tasks in 3-4 days and they took 4-5 days to review my solutions. I got a mail after a week saying I'm moving to the next round. Now this was very exciting I started working hard for the next interviews. Next interview was with my mentor and senior engineering manager. I solved almost 50+ problems in 3-4 days on different coding platforms like <a href="https://leetcode.com" target="_blank_">LeetCode</a> and <a href="www.topcoder.co" target="_blank_">TopCoder</a>. I was expecting it to be very technical. 
+I completed both tasks in 3-4 days and they took 4-5 days to review my solutions. I got a mail after a week saying I'm moving to the next round. Now this was very exciting I started working hard for the next interviews. Next interview was with my mentor and senior engineering manager. I solved almost 50+ problems in 3-4 days on different coding platforms like <a href="https://leetcode.com" target="_blank_">LeetCode</a> and <a href="http://www.topcoder.co" target="_blank_">TopCoder</a>. I was expecting it to be very technical. 
 
 ### Third Round
 Third round wasn't very technical. Apart from Algo and DS other questions include: 
