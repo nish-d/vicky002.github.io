@@ -3,7 +3,7 @@ layout: post
 title: "My internship interview experience with Amazon, LinkedIn, BrowserStack, Mozilla and Slack"
 date: 2016-02-27 12:00:00
 author: "Vikesh Tiwari"
-header-img: "img/"
+header-img: "img/SanFrancisco-min.jpg"
 tags:
     - reading
     - interview
@@ -51,7 +51,6 @@ I applied through career website and got a responses after almost 20 days. First
    - Server Log Analysis
    
 Among all my first rounds this was the most challenging. Detailed questions can be found <a href="https://goo.gl/2OTWXM" target="_blank_">here</a>. 
-
 I could solve just one problem in three hours and they rejected me. 
 
 
@@ -79,11 +78,11 @@ There were total fours rounds.
  
 ### First round
 First round was with the recruiter it was a behavioural interviews.
+
 - Tell me something about your internship.
 - What do you want to join Slack?
 - Tell me about your past projects. 
-
-then she explained me the whole interview process, Visa process and other stuff. 
+then recruiter explained me the whole interview process, Visa process and other stuff. 
 
 ### Second Round
 In the second round I was given a coding assignment with two tasks to complete in a week. Both the tasks were of medium level one Coding task and one design problem. This depends on the position you're applying for. 
@@ -92,6 +91,7 @@ I completed both tasks in 3-4 days and they took 4-5 days to review my solutions
 
 ### Third Round
 Third round wasn't very technical. Apart from Algo and DS other questions include: 
+
 - Explain me your toughest project and the workig Architecture.
 - Apart from technical knowlegde what did you learn during your internship?
 - If someone has different viewpoint to do a project like differnt programming language, how would handle this situation?
@@ -103,7 +103,7 @@ And there were many such questions I'm not going to list them all. But you shoul
 
 ### Fourth Round
 
-Afte a week I got a email saying I'm moving to the next round. Now this was so exciting and I was trying my hardest. Fourth round was very suprising. We talked about the company and my previous interviews. Finally I was offered the internship on call. :D 
+After a week I got a email saying I'm moving to the next round. Now this was so exciting and I was trying my hardest. Fourth round was very suprising. We talked about the company and my previous interviews. Finally I was offered the internship on call. :D 
 
 Frankly telling I had never imagined that I'd intern in US. I accepted the offer and will be joining the company in June. Recruting team is very friendly and helpful. I'm very excited to join the Automation and Testing Team at Slack. 
 
@@ -129,11 +129,8 @@ There are so many opportunities available so the first step to getting an intern
 Here is our short discussion on FB:
 
 **Me** :  *I'm thinking of applying for the internship .. next sem for the full time*
-
 **Krish**: *Don't think. Just apply. Most people make this mistake of not applying. Did you apply for the summer?*
-
 **Me**: *No..not sure whether they would shortlist me*
-
 **Krish**: *That is there decision bro. Maybe they might think you might be the right fit.
 	   Damn! Dont do this ever again man..trust me! You are losing out on a lot of opportunities like that..*
 
