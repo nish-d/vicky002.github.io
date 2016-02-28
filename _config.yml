@@ -9,7 +9,7 @@ title: Vikesh Tiwari
 SEOTitle: Vikesh Tiwari Blog | vicky002
 header-img: img/home-bg.jpg
 email: hi@eulercoder.me
-description: 'Follow the life of a upcoming Software developer as he brings his dreams to life. He writes about Open sources software, startup and Life.'
+description: 'Words are pale shadows of forgotten names. As names have power, words have power. Words can light fires in the minds of men. Words can wring tears from the hardest hearts'
 baseurl:     ''
 keyword: "vicky002, vikesh tiwari, @vikesh002, vicky, blackhat002, vikesh tiwari codechef, vicky tiwari, vikesh tiwari github"
 url:         'http://eulercoder.me'
@@ -36,7 +36,7 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 # Sidebar setting
 sidebar: true
-sidebar-about-description: "Follow the life of a upcoming Software developer as he brings his dreams to life. He writes about Open sources software, startup and Life."
+sidebar-about-description: "Words are pale shadows of forgotten names. As names have power, words have power. Words can light fires in the minds of men. Words can wring tears from the hardest hearts."
 sidebar-avatar: /img/avatar-vicky.jpg
 
 # featured tags
