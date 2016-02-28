@@ -139,8 +139,8 @@ Here is our short discussion on FB:
 	   Damn! Dont do this ever again man..trust me! You are losing out on a lot of opportunities like that..*
 
 And this was true! Thanks to my family for all the support and Special Thanks to Krish for all his motivation and encouragement. 
-That's all! :+1: 
-In my upcoming posts I'll be writing more about the resume and interview tips. Stay tuned for updates! 
+
+That's all! In my upcoming posts I'll be writing more about the resume and interview tips. Stay tuned for updates! 
 
 *Image Source : Flickr - San Francisco City*
 
