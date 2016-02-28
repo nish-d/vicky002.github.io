@@ -16,7 +16,7 @@ Hello!
 
 
 
-It all started in December last year before going on North East trip I had applied to 20+ companies for Software engineering internships. Twelve companies sent me that same <a href="https://www.greenhouse.io" target="_blank">Greenhouse</a> rejection template, three companies said their summer internship positions are full and I got shortlisted for five companies. 
+It all started in December last year before going on a trip to North East, I had applied to 20+ companies for Software engineering internships. Twelve companies sent me that same <a href="https://www.greenhouse.io" target="_blank">Greenhouse</a> rejection template, three companies said their summer internship positions are full and I got shortlisted for five companies. 
  
 I had already started my internship at <a href="https://www.codechef.com" target="_blank">CodeChef</a> (Jan'16 - April'16), my daily schedule is 8 - 4 PM college and then 4:30 - 9,10 at CodeChef. I reach home by 11-11:30, so I used to sleep late and bunk lectures in college to prepare for the interviews. I'll write about the interview preparation plan, books and resume tips someday later, Let's discuss about the interview process today.
  
