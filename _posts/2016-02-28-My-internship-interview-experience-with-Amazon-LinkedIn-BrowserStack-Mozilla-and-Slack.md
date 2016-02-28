@@ -107,7 +107,7 @@ And there were many such questions I'm not going to list them all. But you shoul
 
 After, a week I got an email saying I'm moving to the next round. Now this was so exciting and I was trying my hardest. Fourth round was very surprising. We talked about the company and my previous interviews. Finally, I was offered the internship on call. :D 
 
-Frankly telling I had never imagined that I'd intern in US. I accepted the offer and will be joining the company in June. Recruiting team is very friendly and helpful. I'm very excited to join the Automation and Testing Team at Slack. 
+Frankly telling I had never imagined that I'd intern in US. I accepted the offer and will be joining the company in June. Recruiting team is very friendly and helpful. I'm very excited to join the Automation and Testing Team this summer at Slack. 
 
 
 # LinkedIn
@@ -125,9 +125,9 @@ After the first round I mailed them about my Internship at Slack.
 
 ---
 
-Getting a great summer internship should absolutely be your first priority, nothing else will beat the things you'll learn and experience. The amount of impact you'll end up having cannot be matched easily, especially as a student. As a third year student it was my first priority too. I applied to 20+ companies from Best of the best to average companies. One thing that I learnt in this three years is networking is really important. You should talk to employees, recruiters and alumni. Tell them what you're doing currently, tell me about your projects, past experiences and publicize it on sites like ProductHunt, Reddit and Hackernews. 
+Getting a great summer internship should absolutely be your first priority, nothing else will beat the things you'll learn and experience. The amount of impact you'll end up having cannot be matched easily, especially as a student. As a third year student it was my first priority too. I applied to 20+ companies from Best of the best to average companies. One thing that I learnt in this three years is networking is really important. You should talk to employees, recruiters and alumni. Tell them what you're doing currently, tell them about your projects, past experiences and publicize it on sites like <a href="https://www.producthunt.com" target="_blank">ProductHunt/a>, <a href="https://www.reddit.com/" target="_blank">Reddit</a> and <a href="https://news.ycombinator.com" target="_blank">Hackernews</a>. 
 
-There are so many opportunities available so the first step to getting an internship, is apply. A lot of people I know are just too afraid to apply, even to companies they really want to work at because they are waiting to get the perfect resume. Even I used to feel the name thanks to [Krish Munot](https://github.com/krishmunot) he's an awesome guy, last year in december we were discussing about the internships and he encouraged to apply. 
+There are so many opportunities available so the first step to getting an internship, is apply. A lot of people I know are just too afraid to apply, even to companies they really want to work at because they are waiting to get the perfect resume. Even I used to feel the name thanks to <a href="http://krishmunot.com" target="_blank">Krish Munot</a> he's an awesome guy, last year in december we were discussing about the internships and he encouraged to apply. 
 
 Here is our short discussion on FB:
 
