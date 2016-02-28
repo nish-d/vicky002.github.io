@@ -39,7 +39,7 @@ I got rejected for Developer Tools (Device Simulation) Intern position in Paris 
 - And interviewer asked me about my projects and internship. 
 
 
-I had performed well but I don't why they replied with this 'we appreciate your commitment to Mozilla, we will unfortunately not be moving forward at this time.' I said OK :p. 
+I had performed well but I don't know why they replied with this 'we appreciate your commitment to Mozilla, we will unfortunately not be moving forward at this time.' I said OK :p. 
 
 
 # BroswerStack
@@ -107,7 +107,7 @@ And there were many such questions I'm not going to list them all. But you shoul
 
 After, a week I got an email saying I'm moving to the next round. Now this was so exciting and I was trying my hardest. Fourth round was very surprising. We talked about the company and my previous interviews. Finally, I was offered the internship on call. :D 
 
-Frankly telling I had never imagined that I'd intern in US. I accepted the offer and will be joining the company in June. Recruiting team is very friendly and helpful. I'm very excited to join the Automation and Testing Team this summer at Slack. 
+Frankly telling I had never imagined that I'd intern in the US. I accepted the offer and will be joining the company in June. Recruiting team is very friendly and helpful. I'm very excited to join the Automation and Testing Team this summer at Slack. 
 
 
 # LinkedIn
