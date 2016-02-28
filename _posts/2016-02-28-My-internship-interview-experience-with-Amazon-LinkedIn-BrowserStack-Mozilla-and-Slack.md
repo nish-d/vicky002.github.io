@@ -115,7 +115,7 @@ Frankly telling I had never imagined that I'd intern in the US. I accepted the o
 While I was interviewing with Slack (Third round), I got shortlisted for the LinkedIn Internship too. They send me a link of a coding challenge on Hackerrank. I wanted to solve the coding challenges. There were total 3 problems to solve in 3 hours. 
 
 ## Problems
-I can not share the full problem statements but problems very purely algorithmic. 
+I can not share the full problem statements but problems were purely algorithmic. 
 
 - **Angry Children** : Distribute X candy packets to K children. A greedy problem. 
 - **ZigZagArray** : Print Array in Zig Zag manner based on some conditions.
