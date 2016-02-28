@@ -11,7 +11,6 @@ tags:
 ---
 
 
-<base target="_blank">
 
 Hello!
 
@@ -144,7 +143,7 @@ That's all! :+1:
 
 In my upcoming posts I'll be writing more about the resume and interview tips. Stay tuned for updates! 
 
-*Image Source : Flickr*
+*Image Source : Flickr - San Francisco City*
 
 ---
 
