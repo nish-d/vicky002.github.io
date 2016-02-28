@@ -71,7 +71,7 @@ Problems were easy, I solved all the three problems and moved to next round.
 
 # Slack
 
-I had moved to second round of Amazon internship and suddenly one day BAM! **Subject** : 'Phone Interview with <a href="https://www.slack.com" target="_blank">Slack</a>!'. I wasn't expecting this as no internship positions were mentioned on the website. I had mailed them my resume only because I really love the product. Read this : <a href="http://eulercoder.me/2016/02/21/Slack-the-evolution-of-messaging/" target="_blank">Slack the evolution of messaging</a>
+I had moved to second round of Amazon internship and suddenly one day BAM! **Subject** : 'Phone Interview with <a href="https://www.slack.com" target="_blank">Slack</a>!'. I wasn't expecting this as no internship positions were mentioned on the website. I had mailed them my resume only because I really love the product and wanted to work on it. Read this : <a href="http://eulercoder.me/2016/02/21/Slack-the-evolution-of-messaging/" target="_blank">Slack the evolution of messaging</a>
 
 Now I was just focusing on this internship, I didn't want to lose this one. 
 
