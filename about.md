@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-> I'm a upcoming <b>Software developer</b> with a knack for <b>entrepreneurship</b>. 
+> Open Source Developer | Reader | Blogger | Seeker of silence and solitude | Hopeless
 
 <style type="text/css">
 .about, .contacts {
@@ -58,7 +58,7 @@ No data for now.
 Interned with the CodeChef Team at Directi. Worked on Online Test Data Judge using C++, Cleaned Database, worked on moving problems, Worked on Data and Stats problems on CodeChef, Collected Learning module resources.
 
 
-### Chairperson SPIT Coder's Club
+### Chairperson SPIT Coder's Club 
 *June'14 - Present*
 
 ---
