@@ -24,6 +24,7 @@ I had already started my internship at <a href="https://www.codechef.com" target
 # Mozilla
  
 I applied to <a href="https://www.mozilla.org/en-US" target="_blank"></a> through <a href="https://careers.mozilla.org/" target="_blank">career website</a> for multiple internship position in many places. I got shortlisted for Developer Tools (Device Simulation) and Engineering Build Productivity intern positions in Paris and Mountain View respectively. For both positions first round was on <a href="https://www.hackerrank.com" target="_blank">Hackerrank</a>.
+ 
  - There were 4 - 5 multiple choice questions and two coding problems. 
  - For each MCQs you need to give explanation as well. 
  - Questions were very easy. 
@@ -32,6 +33,7 @@ I applied to <a href="https://www.mozilla.org/en-US" target="_blank"></a> throug
 Questions can be found <a href="https://goo.gl/hX8QU6" target="_blank">here</a>.
   
 I got rejected for Developer Tools (Device Simulation) Intern position in Paris after the first round and moved to second round for Engineering Build Intern (Mountain View). 
+
 - Second round was on Skype. 
 - Interview was a bit more technical, but easy. I had to write C program to [reverse a singly linked list](http://www.geeksforgeeks.org/write-a-recursive-function-to-print-reverse-of-a-linked-list/). 
 - And interviewer asked me about my projects and internship. 
