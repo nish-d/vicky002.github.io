@@ -114,6 +114,7 @@ While I was interviewing with Slack (Third round), I got shortlisted for the Lin
 
 ## Problems
 I can not share the full problem statements but problems very purely algorithmic. 
+
 - **Angry Children** : Distribute X candy packets to K children. A greedy problem. 
 - **ZigZagArray** : Print Array in Zig Zag manner based on some conditions.
 - **Acme Substring** : String Based problem. 
@@ -129,15 +130,16 @@ There are so many opportunities available so the first step to getting an intern
 Here is our short discussion on FB:
 
 **Me** :  *I'm thinking of applying for the internship .. next sem for the full time*
+
 **Krish**: *Don't think. Just apply. Most people make this mistake of not applying. Did you apply for the summer?*
+
 **Me**: *No..not sure whether they would shortlist me*
+
 **Krish**: *That is there decision bro. Maybe they might think you might be the right fit.
 	   Damn! Dont do this ever again man..trust me! You are losing out on a lot of opportunities like that..*
 
 And this was true! Thanks to my family for all the support and Special Thanks to Krish for all his motivation and encouragment. 
-
 That's all! :+1: 
-
 In my upcoming posts I'll be writing more about the resume and interview tips. Stay tuned for updates! 
 
 *Image Source : Flickr - San Francisco City*
