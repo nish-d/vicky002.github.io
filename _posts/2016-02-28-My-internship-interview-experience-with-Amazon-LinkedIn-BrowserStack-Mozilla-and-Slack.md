@@ -82,7 +82,7 @@ There were total fours rounds.
 First round was with the recruiter it was kind of behavioral interview.
 
 - Tell me something about your internship.
-- What do you want to join Slack?
+- Why do you want to join Slack?
 - Tell me about your past projects. 
 Then recruiter explained me the whole interview process, Visa process and other stuff. 
 
