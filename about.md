@@ -148,9 +148,7 @@ If you would like to be notified when I release a new project, you can [leave yo
 
 # Contact
 
-If you like what you see and would like to get in touch (I'm reasonably nice), please don't hesitate to do so.
-
-I try to be very responsive through various channels and read everything inbound. If you have cool things to tell me, you can get in touch through the following ways (in decreasing order of preference/activity):
+If you like what you see and would like to get in touch, please don't hesitate to do so. If you have cool things to tell me, you can get in touch through the following ways (in decreasing order of preference/activity):
 
 <div class="col-1-3">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
