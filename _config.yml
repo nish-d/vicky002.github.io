@@ -9,7 +9,7 @@ title: Vikesh Tiwari
 SEOTitle: Vikesh Tiwari Blog | vicky002
 header-img: img/home-bg.jpg
 email: hi@eulercoder.me
-description: 'Words are pale shadows of forgotten names. As names have power, words have power. Words can light fires in the minds of men. Words can wring tears from the hardest hearts'
+description: 'Words are pale shadows of forgotten names. As names have power, words have power. Words can light fires in the minds of men. Words can wring tears from the hardest hearts.'
 baseurl:     ''
 keyword: "vicky002, vikesh tiwari, @vikesh002, vicky, blackhat002, vikesh tiwari codechef, vicky tiwari, vikesh tiwari github"
 url:         'http://eulercoder.me'
@@ -36,7 +36,7 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 # Sidebar setting
 sidebar: true
-sidebar-about-description: "Words are pale shadows of forgotten names. As names have power, words have power. Words can light fires in the minds of men. Words can wring tears from the hardest hearts."
+sidebar-about-description: "Vikesh Tiwari - also known as vicky002 in this online virtual world, currently a third year undergrad at SPIT, Mumbai. Loves to travel and talk to random people."
 sidebar-avatar: /img/avatar-vicky.jpg
 
 # featured tags

@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-> Open Source Developer | Reader | Blogger | Seeker of silence and solitude | Hopeless
+> Upcoming Software Developer , Open Source Lover,   Blogger
 
 <style type="text/css">
 .about, .contacts {
@@ -44,6 +44,13 @@ I love old and instrumental songs, singing and walking alone after the sunset, <
 
 
 ## My Work
+
+### Slack Technologies, San Francisco 
+*June'16 to August'16*
+
+---
+No data for now.
+
 
 ### CodeChef, Directi
 *Jan'16 to Present*
