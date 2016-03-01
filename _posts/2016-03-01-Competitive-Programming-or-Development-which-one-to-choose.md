@@ -3,7 +3,7 @@ layout: post
 title: "Competitive Programming or Open Source Development which one to choose?"
 date: 2016-03-01 12:00:00
 author: "Vikesh Tiwari"
-header-img: "img/create_some-min.jpg"
+header-img: "img/create_som-min.jpg"
 tags:
     - reading
     - learning
@@ -89,6 +89,6 @@ Anudeep Nekkanti describes CP perfectly:
 
 
 <figure>
-	<img src="https://eulercoder.me/img/Thumbsup.gif" alt="thumbsup" align="center">
+	<img src="https://raw.githubusercontent.com/vicky002/vicky002.github.io/master/img/Thumbsup.gif" alt="thumbsup" align="center">
 	<figcaption>Awesome isn't it?</figcaption>
 </figure>
