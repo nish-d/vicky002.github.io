@@ -88,7 +88,6 @@ Anudeep Nekkanti describes CP perfectly:
 > “I see that a lot of Indians are putting a lot of effort into competitive programming (mainly for placement offers) with not so good results. Trust me, do it with complete concentration for a month, by then you will exactly know if you have to continue in this field or not. If you feel you should not continue, stop it, do not hang on to it hoping for offers. Use your time on other stuff.“
 
 
-<figure>
-	<img src="https://raw.githubusercontent.com/vicky002/vicky002.github.io/master/img/Thumbsup.gif" alt="thumbsup" align="center">
-	<em>Awesome isn't it?</em>
-</figure>
+![ThumbsUp](https://raw.githubusercontent.com/vicky002/vicky002.github.io/master/img/Thumbsup.gif)
+*Awesome isn't it?*
+
