@@ -12,11 +12,11 @@ tags:
 
 Hello!
 
-Nowadays I'm getting a lot of messages on Quora and Facebook about competitive programming. People ask me like "I'm yellow on Codeforces, I applied to many companies but no luck. I never got shortlisted for any company what should I do?". Today I'm going to write about my own 'personal thought' the competitive programming and development. 
+Nowadays I'm getting a lot of messages on Quora and Facebook about competitive programming. People ask me "I'm yellow on Codeforces, I applied to many companies but no luck. I never got shortlisted for any company what should I do?". Today I'm going to write about own 'personal thoughts' about competitive programming and development. 
 
-Well, I realised competitive programming not for me and I have totally stopped Competitive Programming. I do participate occasionally and I solve practice problems on different coding problems in free time to improve my Algo and DS concepts. Now I'm more involved in development I love <a href="https://github.com/vicky002" target="_blank">open source</a>. The feeling of create something for community gives me more pleasure than seeing those green tick marks. 
+Well, I realised competitive programming is not for me and I have totally stopped Competitive Programming. I do participate occasionally and I solve practice problems on different coding problems in free time to improve my Algo and DS concepts. Now I'm more involved in development I love <a href="https://github.com/vicky002" target="_blank">open source</a>. I love feeling of creating something for community it gives me more pleasure than seeing those green tick marks. 
 
-There is big hype of competitive programming in India. Students think that doing well in CP will give them best jobs in big tech companies. Most of the students start CP without having any interest in it, they force them to participate in coding challenges to get good rankings so that they can mention it on their resume. They search for solutions on different online platforms which leads to cheating in coding competitions. Ask yourself at least once, do you really like competitive programming? Why are you doing CP? Just because few amazing people have got jobs in big companies like Google, Facebook and Microsoft through CP?
+There is big hype of competitive programming in India. Students think that doing well in CP will give them the best jobs in big tech companies. Most of the students start CP without having any interest in it, they force themselves to participate in coding challenges to get good rankings so that they can mention it on their resume. They search for solutions on different online platforms which leads to cheating in coding competitions. Ask yourself at least once, do you really like competitive programming? Why are you doing CP? Just because few amazing people have got jobs in big companies like Google, Facebook and Microsoft through CP?
 <a href="https://www.quora.com/Will-Directi-hire-an-engineer-if-he-has-55-percent-considering-the-fact-that-he-is-a-very-good-programmer-and-has-solved-400-problems-on-SPOJ" target="_blank">Will Directi hire an engineer if he has 55 percent, considering the fact that he is a very good programmer and has solved 400 problems on SPOJ?</a>  There are many such questions are <a href="https://www.quora.com/pinned/Competitive-Programming" target="_blank">Quora</a>. 
 
 
@@ -36,7 +36,7 @@ There is big hype of competitive programming in India. Students think that doing
 - You get used to small rewards and short-term goals. In real life when you work on a project it takes months before you get rewarded for the project you're working on. 
 - You know a programming languages exceptionally well but you don't know any frameworks. It is more practical, time consuming and more boring to learn and you need to do it a hell-lot more often!
 - In CP you see WA, AC or TLE on a problem but in real life it takes huge effort in testing a software on different data sets, platforms and devices. It takes months in testing and finalizing a software.
-- Machine learning, Artificial Intelligence, Image processing and cryptography - you never used to use these in coding competitions. These are the high used branches of computer science in big companies. 
+- Machine learning, Artificial Intelligence, Image processing and cryptography - you never used these in coding competitions. These are highly used branches of computer science in big companies. 
 
 
 
@@ -56,7 +56,7 @@ Here I'm referring to Open source development
 ### What are Pros of Open source Development
 
 - **Solving Problems**: This gives you a sense of accomplishment, at the end of the day, you can look back and point at something that you did or made or finished and many people are using your software. 
-- **Learning**: You work in a real life projects whether it's a simple android app, plugins, integrations, new frameworks or bot. You learn how to work on a real life projects usin different languages and frameworks following a software process. There are many awesome new technologies and framework available and people are upcoming up with new technologies and frameworks daily.
+- **Learning**: You work on a real life projects whether it's a simple android app, plugins, integrations, new frameworks or bot. You learn how to work on a real life project using different languages and frameworks following a software process. There are many awesome new technologies and framework available and people are coming up with new technologies and frameworks daily.
 - **Open Source Community**: Open source community is so huge and there are thousands of projects available on <a href="https://github.com" target="_blank">Github</a> to contribute and work on. When you start working on open source projects you'll get to learn how do big organizations work and maintain large codebase, Git and SVN version control mechanism, you interact with software engineer and developer from all around the world. 
 
 ### And what about cons?
@@ -91,3 +91,4 @@ Anudeep Nekkanti describes CP perfectly:
 ![ThumbsUp](https://raw.githubusercontent.com/vicky002/vicky002.github.io/master/img/Thumbsup.gif)
 *Awesome isn't it?*
 
+**Thanks to Nishita Dutta for reading drafts of this!**
