@@ -90,5 +90,5 @@ Anudeep Nekkanti describes CP perfectly:
 
 <figure>
 	<img src="https://raw.githubusercontent.com/vicky002/vicky002.github.io/master/img/Thumbsup.gif" alt="thumbsup" align="center">
-	<figcaption>Awesome isn't it?</figcaption>
+	<em>Awesome isn't it?</em>
 </figure>
