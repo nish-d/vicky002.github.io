@@ -91,4 +91,4 @@ Anudeep Nekkanti describes CP perfectly:
 ![ThumbsUp](https://raw.githubusercontent.com/vicky002/vicky002.github.io/master/img/Thumbsup.gif)
 *Awesome isn't it?*
 
-**Thanks to Nishita Dutta for reading drafts of this!**
+*Thanks to Nishita Dutta for reading drafts of this!*
