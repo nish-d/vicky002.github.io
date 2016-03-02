@@ -63,7 +63,7 @@ Here I'm referring to Open source development
 
 - It takes **lot of time and effort** but trust me that feeling of creating a software or application is amazing! Recently my friend create a bot for Slack which integrate with <a href="https://moodle.org" target="_blank">Moodle</a> to show all your upcoming submissions. He was telling me about how he spent last ten days working on this and how it feels after finalizing the product. 
 
-## Can competitive programming get you placed or get you a good internship?
+## Can only competitive programming get you placed or get you a good internship?
 
 **Absolutely Not!!** (Assuming that you don't any contacts in top companies, those who can refer you for the interviews!)
 
