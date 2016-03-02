@@ -12,7 +12,7 @@ tags:
 
 Hello!
 
-Nowadays I'm getting a lot of messages on Quora and Facebook about competitive programming. People ask me "I'm yellow on Codeforces, I applied to many companies but no luck. I never got shortlisted for any company what should I do?". Today I'm going to write about own 'personal thoughts' about competitive programming and development. 
+Nowadays I'm getting a lot of messages on Quora and Facebook about competitive programming. People ask me "I'm yellow on Codeforces, I applied to many companies but no luck. I never got shortlisted for any company what should I do?". Today I'm going to write my own 'personal thoughts' about competitive programming and development. 
 
 Well, I realised competitive programming is not for me and I have totally stopped Competitive Programming. I do participate occasionally and I solve practice problems on different coding problems in free time to improve my Algo and DS concepts. Now I'm more involved in development I love <a href="https://github.com/vicky002" target="_blank">open source</a>. I love feeling of creating something for community it gives me more pleasure than seeing those green tick marks. 
 
@@ -85,6 +85,7 @@ The toughest part in getting a job is to get shortlisted for the interviews. Big
 In conclusion, I think both are very good for personal development. Through Competitive programming you will be well versed with data structures and algorithms and this will surely help you in cracking job interviews. If you choose Open Source and if you pick the right project, you'll learn to write better, cleaner code (not necessarily faster), that's broadly acceptable. You'll learn to organize and document your code better, which is a critical skill. You'll gain meaningful experience on your resume, which will lead to more interviews at good companies, whatever your experience or education level is. I'd suggest you to try both, if you're doing only CP aim for ACM-ICPC, CodeJam and HackersCup and keep doing if you really love it.
 
 Anudeep Nekkanti describes CP perfectly:
+
 > “I see that a lot of Indians are putting a lot of effort into competitive programming (mainly for placement offers) with not so good results. Trust me, do it with complete concentration for a month, by then you will exactly know if you have to continue in this field or not. If you feel you should not continue, stop it, do not hang on to it hoping for offers. Use your time on other stuff.“
 
 
