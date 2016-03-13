@@ -71,7 +71,7 @@ Getting shortlisted for the interviews is the toughest part and for that your re
 	Yes, before applying for an internship make sure that you have some good quality projects to mention in your resume. Upload your code on <a href="https://github.com/vicky002" target="_blank">Github</a>, make it open source and add links to code in your resume. If you're searching for project ideas, I have a list of <a href="https://github.com/vicky002/1000_Projects" target="_blank">more than 500 projects</a>. 		
 - **Open Source Contributions**
 	
-	Search for good projects to <a href="https://github.com/explore" target="_blank">contribute on Github</a> improve documentation and fix bugs and do some enhancements. Companies really love it! I don't have a good GPA but my projects and open source contributions helped me every single time.	 		
+	Search for good projects to <a href="https://github.com/explore" target="_blank">contribute on Github</a> improve documentation and fix bugs and do some enhancements. Companies really love it! If don't have a good GPA then projects and open source contributions really add value to your resume.	 		
 - **Past internships** (If any)
 	
 	Before applying to top companies in US or India, you should do at least one internship in any startup. Startup internships are really a great place to learn a lot of things in a very short time. Don't think of stipend, if you really love their idea just mail and ask them about internship positions. There are many websites available for startup internships list of websites can be found at the bottom of the post.				
