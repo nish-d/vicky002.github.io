@@ -128,7 +128,7 @@ Yes! This is december 2016 and Internship process for Summer 2017 has just start
 
 Apply everywhere! Don't think that you don't have a perfect resume, just visit their career website or <a href="https://www.linkedin.com/vsearch/j?keywords=Internship&title=Internship&sb=Jobs%20for%20Internship%20titles&trk=tyah&trkInfo=clickedVertical%3Asuggestion%2CclickedEntityId%3A166%2Cidx%3A1-1-1%2CtarId%3A1457835727447%2Ctas%3Ainternship%20" target="_blank">LinkedIn internship posts</a> and fill the form. I applied to <a href="http://eulercoder.me/2016/02/27/My-internship-interview-experience-with-Amazon-LinkedIn-BrowserStack-Mozilla-and-Slack/" target="_blank">more than 20 companies this year</a>. 
 
-Once you get shortlisted for the interviews search everywhere about past internship interview process, questions on Glassdoor, Geeksforgeeks and reddit. When I got shortlisted for the internship at Slack, I searched everywhere about interview process and questions asked. I couldn't find any except a post on reddit. If you don't find anything and just got this sub and post questions or search for past interns on LinkedIn add them in your profile and message them directly. Three out of ten people will give you perfect reply and this is enough for you!
+Once you get shortlisted for the interviews search everywhere about past internship interview process, questions on Glassdoor, Geeksforgeeks and reddit. When I got shortlisted for the internship at Slack, I searched everywhere about interview process and questions asked. I couldn't find any except a post on reddit. If you don't find anything and just goto <a href="https://www.reddit.com/r/cscareerquestions/" target="_blank">this sub</a> and post questions or search for past interns on LinkedIn add them in your profile and message them directly. Three out of ten people will give you perfect reply and this is enough for you!
 
 
 Some tips from my side:
@@ -200,6 +200,7 @@ Keep talking and asking to people who have more knowledge than you, networking i
 
 
 ![right?](https://raw.githubusercontent.com/vicky002/vicky002.github.io/master/img/job.gif)
+*Run..Run fast!!*
 
 <share-button></share-button>
   
