@@ -63,7 +63,7 @@ Yes! All the useful websites, PDFs and article links are mentioned at the end of
 
 ---
 
-Getting shortlisted for the interviews is the toughest part and for that your resume should be very strong and of very high quality. So what are the different factors that recruiter love to see on your resume?
+Getting shortlisted for the interviews is the toughest part and for that your resume should be very strong and of very high quality. So what are the different factors that the recruiter would love to see on your resume?
 
 - **College**
 - **Projects**
