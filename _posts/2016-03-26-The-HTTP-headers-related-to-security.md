@@ -111,3 +111,6 @@ X-XSS-Protection: 1; report = http://site.com/report
 These HTTP headers can improve significantly the security of your web applications. Some of them are still handled with care and it is necessary to assess potential risks before using them. It is important to remember that these headers will have no effect for browsers that support, and will be ignored by others. They are therefore an additional layer of security for some of your users, but not enough in themselves -Same. It therefore remains necessary to apply the usual security best practices.
 
 
+![right?](https://raw.githubusercontent.com/vicky002/vicky002.github.io/master/img/whatsgoing.gif)
+*Man! What are you talking about?*
+
