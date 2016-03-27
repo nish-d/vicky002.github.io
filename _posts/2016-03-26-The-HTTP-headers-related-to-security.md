@@ -12,7 +12,7 @@ tags:
 
 Hello!
 
-After few blog posts on internships and interview experiences, this is the time to write some technical posts. I'll be writing about APIs, Docker and OAuth 2.0 in my upcoming blog posts but there will be few rendom funny stuffs as well! I don't want to make you people bore with everything technical here :p. 
+After few blog posts on <a href="http://eulercoder.me/2016/03/12/Summer-Internship-the-ultimate-guide/" target="_blank">internships</a> and <a href="http://eulercoder.me/2016/02/27/My-internship-interview-experience-with-Amazon-LinkedIn-BrowserStack-Mozilla-and-Slack/" target="_blank">interview experiences</a>, this is the time to write some technical posts. I'll be writing about APIs, Docker and OAuth 2.0 in my upcoming blog posts but there will be few rendom funny stuffs as well! I don't want to make you people bore with everything technical here :p. 
 
 So, as the name suggests, this post is about HTTP headers and how it's useful in security. Among the many standard HTTP headers, some help to improve the security of web applications. This post contains quick overview of these headers. So let's get started!
 
@@ -104,7 +104,8 @@ When this option is enabled, the browser will try to detect whether certain sens
 
 This header is used with care, to the extent possible false positives could be very disadvantageous to your site.
 It is also possible to activate a "report" that in addition to blocking the page allows you to send a report to each flaw found.
-X-XSS-Protection: 1; report = http://site.com/report
+
+```X-XSS-Protection: 1; report = http://site.com/report```
 
 ## Conclusion
 
