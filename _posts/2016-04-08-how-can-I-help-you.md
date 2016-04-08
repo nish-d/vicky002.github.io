@@ -6,6 +6,7 @@ author: "Vikesh Tiwari"
 header-img: "img/falling.jpg"
 tags:
     - reading
+    - personal
 ---
 
 *How can I help you see that you deserve to be happy?*
