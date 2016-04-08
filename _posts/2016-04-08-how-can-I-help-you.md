@@ -1,7 +1,8 @@
 ---
 layout: post 
 title: "How can I help you?"
-date: 2016-04-08 12:00:00
+date: 2016-04-07 12:00:00
+author: "Vikesh Tiwari"
 header-img: "img/falling.jpg"
 tags:
     - reading
