@@ -11,12 +11,14 @@ tags:
 ---
 
 
-I just want to sit somewhere with you beside the mall road and watch people boating in Nainital lake. I want to stare the design on my wall with you while thinking about my hair. I want to drink lukewarm tea with you. I want to watch mediocre TV with you and have low-grade headaches with you and eat bowls of overcooked pasta with you. When it's raining outside, I want to eat <a href="http://shreesaivadapav.com/images/mumbai-street-food/onion-bhajiya-plate-b.jpg" target="_blank">onion bhajiya</a> (cooked by me) with you. I want to start a conversation about something controversial with you until we both realize we don't know enought about it so we have to switch to talking about food. I want to trace the ant running on an artifical wood tabletop while playing 
-<a href="http://media.babyoye.com/images/product/large/BPSHA00012_2-shadilal-sons-a-trade-game-business-deluxe-india.JPG" target="_blank">business game</a> with you. I want to sit on my building tarrace and be bored with you. Not bored because of you. Bored *together*. 
-
 <p align="center">
    <img align="centre" src="https://raw.githubusercontent.com/vicky002/vicky002.github.io/master/img/nainital-min.jpg" alt="Nainital Lake"/>
 </p>
+*Nainital Lake*
+
+I just want to sit somewhere with you beside the mall road and watch people boating in Nainital lake. I want to stare the design on my wall with you while thinking about my hair. I want to drink lukewarm tea with you. I want to watch mediocre TV with you and have low-grade headaches with you and eat bowls of overcooked pasta with you. When it's raining outside, I want to eat <a href="http://shreesaivadapav.com/images/mumbai-street-food/onion-bhajiya-plate-b.jpg" target="_blank">onion bhajiya</a> (cooked by me) with you. I want to start a conversation about something controversial with you until we both realize we don't know enought about it so we have to switch to talking about food. I want to trace the ant running on an artifical wood tabletop while playing 
+<a href="http://media.babyoye.com/images/product/large/BPSHA00012_2-shadilal-sons-a-trade-game-business-deluxe-india.JPG" target="_blank">business game</a> with you. I want to sit on my building tarrace and be bored with you. Not bored because of you. Bored *together*. 
+
 
 One trip to the Leh ladakh. Three vacations to hot, photogenic places. Five misguided ice-outs. Seven passive-agressive car rides. An afternoon when we take our career choices out of our head and put them on the table and stab them with little sticks and forks. A fight where someone throws a spoon (not fork)! An evening we both are seating and just talking about our family and all those childhoot memories. One night at my hometown on the roof top doing nothing just watching the stars and <a href="https://en.wikipedia.org/wiki/Saptarishi" target="_blank">The Saptarishi</a>. 
 
