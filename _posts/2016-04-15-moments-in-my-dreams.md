@@ -14,7 +14,7 @@ tags:
 <p align="center">
    <img align="centre" src="https://raw.githubusercontent.com/vicky002/vicky002.github.io/master/img/nainital-min.jpg" alt="Nainital Lake"/>
 </p>
-<center>*Nainital Lake*</center>
+<center><i>Nainital Lake</i></center>
 
 I just want to sit somewhere with you beside the mall road and watch people boating in Nainital lake. I want to stare at the design on my wall with you while thinking about my hair. I want to drink lukewarm tea with you. I want to watch mediocre TV with you and have low-grade headaches with you and eat bowls of overcooked pasta with you. When it's raining outside, I want to eat <a href="http://shreesaivadapav.com/images/mumbai-street-food/onion-bhajiya-plate-b.jpg" target="_blank">onion bhajiya</a> (cooked by me) with you. I want to start a conversation about something controversial with you until we both realize we don't know enought about it so we have to switch to talking about food. I want to trace the ant running on an artifical wood tabletop while playing 
 <a href="http://media.babyoye.com/images/product/large/BPSHA00012_2-shadilal-sons-a-trade-game-business-deluxe-india.JPG" target="_blank">business game</a> with you. I want to sit on my building tarrace and be bored with you. Not bored because of you. Bored *together*. 
@@ -29,7 +29,7 @@ Not bored *because* of you. Bored together. We can drive a Toyota Fortuner to th
 <p align="center">
    <img align="centre" src="https://raw.githubusercontent.com/vicky002/vicky002.github.io/master/img/pani-puri-min.jpg" alt="Pani Puri"/>
 </p>
-<center>*A scene from movie Rab Ne Bana Di Jodi*</center>
+<center><i>A scene from movie Rab Ne Bana Di Jodi</i></center>
 
 
 We can let go of funny and exciting and interesting and offensive and microaggressive. We can let go of all our affectations and all the things we say. We can stop trying to be the version of ourselves that will get the most dopamine, the version that's been engineered by and for everyone around us. We can stop auto-transcibing everything that happens between us and filtering it into Good or the bad. 
@@ -49,9 +49,14 @@ We can stop at the candles, open one or two, and pick the one that smells most l
 <p align="center">
    <img align="centre" src="https://raw.githubusercontent.com/vicky002/vicky002.github.io/master/img/candle_shop.jpg" alt="Nainital Candle shop"/>
 </p>
-<center>*Candle shop in Nainital*</center>
+<center><i>Candle shop in Nainital</i></center>
 
+<center><share-button></share-button></center>
 
 Thank you :) 
 
 *Image source: Flickr*
+
+---
+
+I hope you liked this artilcle. If you're wondering why the title 'In my dreams', why I started artile with that beautiful Mall road of Nainital and ended with the same, Why one, three, seven numbers? If you want to know more the about this article. You can write an email to hi@eulercoder.me. I'd love to answer all your questions. :) 
