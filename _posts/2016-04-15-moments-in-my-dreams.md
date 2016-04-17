@@ -51,15 +51,14 @@ We can stop at the candles, open one or two, and pick the one that smells most l
 </p>
 <center><i>Candle shop in Nainital</i></center>
 
+<br/>
 <div class="container">
 <div class="row">
 	<div class="col-xs-2"></div>
 	<div class="col-xs-8">
 		<a href="https://twitter.com/share" class="twitter-share-button" data-via="vikesh002">Tweet</a>
-<div class="fb-share-button" 
-		data-href="http://eulercoder.me/2016/04/15/moments-in-my-dreams" 
-		data-layout="button_count">
-	</div>
+
+<div class="fb-share-button" data-href="http://eulercoder.me/2016/04/15/moments-in-my-dreams" data-layout="button_count" data-mobile-iframe="true"></div>
 	</div>
 
 </div>
