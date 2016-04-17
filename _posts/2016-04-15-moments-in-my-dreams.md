@@ -34,7 +34,7 @@ Not bored *because* of you. Bored together. We can drive a Toyota Fortuner to th
 
 We can let go of funny and exciting and interesting and offensive and microaggressive. We can let go of all our affectations and all the things we say. We can stop trying to be the version of ourselves that will get the most dopamine, the version that's been engineered by and for everyone around us. We can stop auto-transcibing everything that happens between us and filtering it into Good or the bad. 
 
-We can only be bored after we've been everything else. We have still so many things to do. I want to fall through the canoy of jokes and all talks about sitcoms and what-do-you-think-about-this-program-software-mobile-this disaster-that-happened-yesterday-in-another-city-another-country-another-another-another. I want to discuss same controversial thread with you and we will walk back and fourth over fifty times and will make each other crazy with everything we said or not said. 
+We can only be bored after we've been everything else. We have still so many things to do. I want to fall through the canopy of jokes and all talks about sitcoms and what-do-you-think-about-this-program-software-mobile-this disaster-that-happened-yesterday-in-another-city-another-country-another-another-another. I want to discuss same controversial thread with you and we will walk back and fourth over fifty times and will make each other crazy with everything we said or not said. 
 
 ---
 
@@ -74,4 +74,4 @@ Thank you :)
 
 ---
 
-I hope you liked this artilcle. If you're wondering why the title 'In my dreams', why I started artile with that beautiful Mall road of Nainital and ended with the same, Why one, three, seven numbers? If you want to know more the about this article. You can write an email to hi@eulercoder.me. I'd love to answer all your questions. :) 
+I hope you liked this artilcle. If you're wondering why the title 'In my dreams', why I started artile with that beautiful Mall road of Nainital and ended with the same, Why one, three, seven numbers? If you want to know more the about this article. You can write an email to hi@eulercoder.me, I'd love to answer all your questions. :) 
