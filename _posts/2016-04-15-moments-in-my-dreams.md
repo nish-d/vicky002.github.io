@@ -20,7 +20,7 @@ I just want to sit somewhere with you beside the mall road and watch people boat
 <a href="http://media.babyoye.com/images/product/large/BPSHA00012_2-shadilal-sons-a-trade-game-business-deluxe-india.JPG" target="_blank">business game</a> with you. I want to sit on my building tarrace and be bored with you. Not bored because of you. Bored *together*. 
 
 
-One trip to the Leh ladakh. Three vacations to hot, photogenic places. Five misguided ice-outs. Seven passive-agressive car rides. An afternoon when we take our career choices out of our head and put them on the table and stab them with little sticks and forks. A fight where someone throws a spoon (not fork)! An evening we both are sitting and just talking about our family and all those childhoot memories. One night at my hometown on the roof top doing nothing just watching the stars and <a href="https://usercontent2.hubstatic.com/5942205_f520.jpg" target="_blank">The Saptarishi</a>. 
+One trip to the Leh ladakh. Three vacations to hot, photogenic places. Five misguided ice-outs. Seven passive-agressive car rides. An afternoon when we take our career choices out of our head and put them on the table and stab them with little sticks and forks. A fight where someone throws a spoon (not fork)! An evening we both are sitting and just talking about our family and all those childhood memories. One night at my hometown on the roof top doing nothing just watching the stars and <a href="https://usercontent2.hubstatic.com/5942205_f520.jpg" target="_blank">The Saptarishi</a>. 
 
 After all that - I want to be bored with you.
 
