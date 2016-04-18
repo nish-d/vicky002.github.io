@@ -74,4 +74,4 @@ Thank you :)
 
 ---
 
-I hope you liked this article. If you're wondering why the title 'In my dreams', why I started the article with that beautiful Mall road of Nainital and ended with the same, Why one, three, seven numbers? If you want to know more the about this article. You can write an email to mailto:hi@eulercoder.me, I'd love to answer all your questions. :) 
+I hope you liked this article. If you're wondering why the title 'In my dreams', why I started the article with that beautiful Mall road of Nainital and ended with the same, Why one, three, seven numbers? If you want to know more the about this article. You can write an email to <a href="mailto:hi@eulercoder.me">me</a>, I'd love to answer all your questions. :) 
