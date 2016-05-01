@@ -28,11 +28,17 @@ ga_domain: vicky002.github.io
 disqus_username: vicky002
 
 
+# Gems
+gems: [jekyll-paginate]
+
+
 # Build setting
 highlighter: rouge
 permalink: pretty
 paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
+
 
 # Sidebar setting
 sidebar: true

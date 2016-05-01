@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About
+subtitle: "Upcoming Software Developer , Open Source Lover, Blogger"
 permalink: /about/
+header-img: "img/home-about.jpg"
 ---
-
-> Upcoming Software Developer , Open Source Lover,   Blogger
 
 <style type="text/css">
 .about, .contacts {

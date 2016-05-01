@@ -4,6 +4,7 @@ title: "Competitive Programming or Open Source Development which one to choose?"
 date: 2016-03-01 12:00:00
 author: "Vikesh Tiwari"
 header-img: "img/create_som-min.jpg"
+catalog: true
 tags:
     - reading
     - learning

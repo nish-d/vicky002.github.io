@@ -4,6 +4,7 @@ title: "My internship interview experience with Amazon, LinkedIn, BrowserStack, 
 date: 2016-02-27 12:00:00
 author: "Vikesh Tiwari"
 header-img: "img/SanFrancisco-min.jpg"
+catalog: true
 tags:
     - reading
     - interview

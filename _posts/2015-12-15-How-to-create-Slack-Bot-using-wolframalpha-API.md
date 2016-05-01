@@ -4,6 +4,7 @@ title: "How to create Slack Bot using Wolframalpha API"
 date: 2015-12-15 12:00:00
 header-img: "img/slack.jpg"
 author: "Vikesh Tiwari"
+catalog: true
 tags:
     - Slack
     - Bots
