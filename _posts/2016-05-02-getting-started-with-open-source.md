@@ -160,7 +160,7 @@ You must be knowing about this. Open source contributions matter a lot. I get so
 
 Lots of conversation that start on Github turn into friendships that extend to Twitter. It gets really fun when you meet these awesome people in real life and I'm super excited to meet few people during <a href="http://eulercoder.me/2016/02/27/My-internship-interview-experience-with-Amazon-LinkedIn-BrowserStack-Mozilla-and-Slack/" target="_blank">my internship at Slack in San Francisco</a>. Friends make open source fun and rewarding. 
 
-### Helpig others
+### Helping others
 
 One of the most rewarding things when working in open source is when someone says something like: “This is amazing!” “Thank you so much!” “It’s saved me so much time!” or “I wish that I’d found this earlier!” **Call to action**: If a project has saved you some time, go ahead and create an issue to simply tell them thanks. (When show copied Github projects in college.)
 
