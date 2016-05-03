@@ -3,7 +3,7 @@ layout: page
 title: About
 subtitle: "Upcoming Software Developer , Open Source Lover, Blogger"
 permalink: /about/
-header-img: "img/home-about.jpg"
+header-img: "img/varanasi.jpg"
 ---
 
 <style type="text/css">
@@ -53,23 +53,28 @@ No data for now.
 
 
 ### CodeChef, Directi
-*Jan'16 to Present*
+  *Jan'16 to March'15*
+____
 
-----
-No data for now. 
-
+- Worked on OAuth API development using Slim and Swagger.
+- Worked on Developer page where developer can generate token and test APIs. 
 
 ### CodeChef, Directi
   *March'15 to Sept'15*
  _____
-Interned with the CodeChef Team at Directi. Worked on Online Test Data Judge using C++, Cleaned Database, worked on moving problems, Worked on Data and Stats problems on CodeChef, Collected Learning module resources.
+
+- Worked on Online Test Data Judge using C++
+- Cleaned Database
+- Worked on moving problems 
+- Worked on Data and Stats problems on CodeChef
+- Collected Learning module resources.
 
 
 ### Chairperson SPIT Coder's Club 
 *June'14 - Present*
 
 ---
-I started first Coder's club to promote competitive programming, open source developement and expose students moderns technology not present in the classroom. Organized workshops and 3 Online competitions and 60 days Open source project challenge till now. 
+I started first Coder's club to promote competitive programming, open source developement and expose students to moderns technologies which are not present in the classroom. I have Organized workshops, online coding competitions and 60 days Open source project challenge. 
 
 ### Technical Head - Information Technology Student's Association
 *June'15 - Present*
