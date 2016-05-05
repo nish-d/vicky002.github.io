@@ -14,7 +14,7 @@ tags:
 
 Hello! 
 
-After few, <a href="http://eulercoder.me/tags/#personal" target="_blank">Love, life and personal articles</a>, this is the time to write some technical stuff. After my post on <a href="http://eulercoder.me/2016/03/01/Competitive-Programming-or-Development-which-one-to-choose/" target="_blank">Competitive programming or open source development which one to choose?</a>, I received so many emails asking How to start with open source. I wanted to write about this since a very long time so as the title suggests, this blog post is for beginners who want to work on their own projects or contribute to other open source projects. **This is going to be a long post so grab some snacks, take a notebook and make a note of points that you think may help in the future.**  
+After a few, <a href="http://eulercoder.me/tags/#personal" target="_blank">Love, life and personal articles</a>, it's time to write some technical stuff. After my post on <a href="http://eulercoder.me/2016/03/01/Competitive-Programming-or-Development-which-one-to-choose/" target="_blank">Competitive programming or open source development which one to choose?</a>, I received so many emails asking How to start with open source. I wanted to write about this since a very long time so as the title suggests, this blog post is for beginners who want to work on their own projects or contribute to other open source projects. **This is going to be a long post so grab some snacks, take a notebook and make a note of points that you think may help in the future.**  
 
 Before we start, Don't think about: 
 
@@ -26,7 +26,7 @@ Before we start, Don't think about:
 Many people are afraid to contribute to open source because they don't feel up to the task or don't have years of experience or enough in-depth knowledge about something.
 
 Trust me, 
-*The first time is **always** the hardest, and once you get started contributing to open source you will see how easy it is and what are the benefits and rewards.*
+*The first time is **always** the hardest, and once you get started on contributing to open source you will see how easy it is and what are the benefits and rewards.*
 
 You do not need a degree or an invitation to contribute to open source. If you want one, you are hereby cordially invited :).
 
@@ -119,11 +119,11 @@ Ohh That's super awesome! So let's get started :). When, you see any big project
 	- ```git add file1 file2 file3```
 	- ```git commit -m 'commit message'```
 	- ```git push origin master```
-- You made changes, pushed to master branch from your local machine. This is the to create a pull request. 
+- You made changes, pushed to master branch from your local machine. This is the first step to create a pull request. 
 
 ### Your first Pull Request
 
-For your first <a href="https://help.github.com/articles/using-pull-requests/">pull request</a>, Let the project manager know that you're new and want some guidance to learn how to get into it. It may so happen that maybe they’re too busy to help, if so, move on and find another project. That first contribution is the hardest, you may want some help and coaching. The actual code contribution matters less than learning the process. So find a project or someone who has time and patience to mentor you. 
+For your first <a href="https://help.github.com/articles/using-pull-requests/">pull request</a>, Let the project manager know that you're new and want some guidance to learn how to get into it. It may so happen that they’re too busy to help, if so, move on and find another project. That first contribution is the hardest, you may want some help and coaching. The actual code contribution matters less than learning the process. So find a project or someone who has time and patience to mentor you. 
 
 Here, I know you are contributing for the first time so I'll be kind here and accept your pull requests in AlgoWiki :p and I am 24/7 online to accept pull requests, discuss changes or anything related to my projects. 
 
@@ -147,7 +147,7 @@ That's how you learn. That's you grow as a developer. And that's how you prove t
 
 # What I learnt from Open Source
 
-I have learned so many valuable skills from my time using and contributing to open source projects. I've learned how many different build systems work, different styles of structuring code and files to enhance readability, Swagger for API I didn't know existed, etc. etc. etc.
+I have learned so many valuable skills from my time using and contributing to open source projects. I've learned how many different build systems work, different styles of structuring code and files to enhance readability, Swagger for API which I didn't know existed, etc. etc. etc.
 
 #### Job opportunities
 
@@ -158,11 +158,11 @@ You must be knowing about this. Open source contributions matter a lot. I get so
 
 #### Friends
 
-Lots of conversation that start on Github turn into friendships that extend to Twitter. It gets really fun when you meet these awesome people in real life and I'm super excited to meet few people during <a href="http://eulercoder.me/2016/02/27/My-internship-interview-experience-with-Amazon-LinkedIn-BrowserStack-Mozilla-and-Slack/" target="_blank">my internship at Slack in San Francisco</a>. Friends make open source fun and rewarding. 
+Lots of conversation that start on Github turn into friendships that extend to Twitter. It gets real fun when you meet these awesome people in real life and I'm super excited to meet a few during <a href="http://eulercoder.me/2016/02/27/My-internship-interview-experience-with-Amazon-LinkedIn-BrowserStack-Mozilla-and-Slack/" target="_blank">my internship at Slack in San Francisco</a>. Friends make open source fun and rewarding. 
 
 ### Helping others
 
-One of the most rewarding things when working in open source is when someone says something like: “This is amazing!” “Thank you so much!” “It’s saved me so much time!” or “I wish that I’d found this earlier!” **Call to action**: If a project has saved you some time, go ahead and create an issue to simply tell them thanks. (When show copied Github projects in college.)
+One of the most rewarding things when working with open source is when someone says something like: “This is amazing!” “Thank you so much!” “It’s saved me so much time!” or “I wish that I’d found this earlier!” **Call to action**: If a project has saved you some time, go ahead and create an issue to simply tell them thanks. (When show copied Github projects in college.)
 
 # Conclusion
 
@@ -177,9 +177,9 @@ So, **Do yourself a favor and move to Github! Your open source contributions wil
 
 PS: You are always welcome to contribute to my projects. Check out my <a href="https://github.com/vicky002?tab=repositories">GitHub Projects</a>. 
 
-If you liked this articles. Don't forget to share it with your friends. :) 
+If you liked this article, don't forget to share it with your friends. :) 
 
-Ohh <a href="https://github.com/vicky002/vicky002.github.io/blob/master/_posts/2016-05-02-getting-started-with-open-source.md" target="_blank">see a typo</a>?
+Oh, <a href="https://github.com/vicky002/vicky002.github.io/blob/master/_posts/2016-05-02-getting-started-with-open-source.md" target="_blank">see a typo</a>?
 
 <div class="container">
 <div class="row">
@@ -196,6 +196,6 @@ Ohh <a href="https://github.com/vicky002/vicky002.github.io/blob/master/_posts/2
 
 </div>
 
-*Special thanks to <a href="https://github.com/nish-d" target="_blank">Nishita</a> for reading drafts of this!*
+*Special thanks to <a href="https://github.com/nish-d" target="_blank">Nishita</a> for reading drafts of this! She's awsome!! Super cool and amazing!! :D*
 
 You may also like: <a href="http://eulercoder.me/2016/03/01/Competitive-Programming-or-Development-which-one-to-choose/" target="_blank">Competitve Programming or Open Source</a> | <a href="http://eulercoder.me/2016/02/27/My-internship-interview-experience-with-Amazon-LinkedIn-BrowserStack-Mozilla-and-Slack/" target="_blank">My interview experience with Slack, Mozilla, LinkedIn, Browserstack and Amazon</a>
